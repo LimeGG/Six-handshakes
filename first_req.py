@@ -9,7 +9,8 @@ headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0'
       }
 
-dc = {'Данила Козловский': 'https://www.kinopoisk.ru/name/1054956/',
+dc = {'Данила Козловский': 'https://www.kinopoisk.ru/name/1054956/', 'Сергей Безруков': 'https://www.kinopoisk.ru/name/224620/', 'Александр Петров': 'https://www.kinopoisk.ru/name/2286874/', "Зои Дойч": 'https://www.kinopoisk.ru/name/2347339/',
+      "Джесси Айзенберг": "https://www.kinopoisk.ru/name/43221/", 'Бен Аффлек':'https://www.kinopoisk.ru/name/10620/', 'Марго Робби':'https://www.kinopoisk.ru/name/1682023/', 'Леонардо Ди Каприо':'https://www.kinopoisk.ru/name/37859/'
       }
 
 # f1 = requests.get('https://www.kinopoisk.ru/name/25248/', headers=headers).text
@@ -54,6 +55,11 @@ try:
     phone_number.click()
 except:
     print()
+
+element_search = driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[2]/div/div[2]/div/form/div/input')
+element_search.send_keys('Александр Петров')
+driver.find_element_by_xpath('/html/body/div[1]/div/div[6]/header/div/div/div[2]/div/div[2]/div/form/div/div/button').click()
+
 
 
 time.sleep(25)
