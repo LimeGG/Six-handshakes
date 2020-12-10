@@ -54,7 +54,13 @@ try:
     phone_number.click()
 except:
     print()
+driver.get('https://www.kinopoisk.ru/name/2286874/')
+print(driver.page_source)
 
+driver.get('https://www.kinopoisk.ru/film/566495/cast/')
+
+# actors = driver.find_element_by_xpath('/html/body/main/div[4]/div[1]/table/tbody/tr/td[1]/div/div[3]')
+# petrov = {'petrov_112676': [{'khabenskii_123': 'method'}, {'khabenskii_1223': 'method'}]}
 
 time.sleep(25)
 
