@@ -39,6 +39,7 @@ for i in range(len(clear_)):
     clear_dict[clear] = clear_[i].get('href')
 
 print(clear_dict)
+print(clear_dict)
 
 
 
