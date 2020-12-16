@@ -29,7 +29,7 @@ dc = {'Данила Козловский': 'https://www.kinopoisk.ru/name/105495
 
 driver = webdriver.Firefox()
 driver.get("https://www.kinopoisk.ru")
-# driver.get("https://www.kinopoisk.ru/name/1054956/")
+#driver.get("https://www.kinopoisk.ru/name/1054956/")
 time.sleep(1)
 submit_api = driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[3]/div/button')
 submit_api.click()
@@ -57,13 +57,12 @@ except:
     print()
 
 element_search = driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[2]/div/div[2]/div/form/div/input')
+print(element_search)
 element_search.send_keys('Александр Петров')
-driver.find_element_by_xpath('/html/body/div[1]/div/div[6]/header/div/div/div[2]/div/div[2]/div/form/div/div/button').click()
+driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[2]/div/div[2]/div/form/div/div/button').click()
 
 
 
 time.sleep(25)
 
 driver.close()
-
-
