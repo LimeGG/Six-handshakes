@@ -8,9 +8,8 @@ def cinema(film):
     raw_film_name = soup.find_all('h1')[1].find('a')
     film_href = f"https://www.kinopoisk.ru{raw_film_name.get('href')}"
     raw_film_name_str = str(raw_film_name)
-    film_name = raw_film_name_str[raw_film_name_str.find('>')+1:raw_film_name_str.find('</a')]
+    film_name = raw_film_name_str[raw_film_name_str.find('>') + 1:raw_film_name_str.find('</a')]
     raw_list = soup.find_all('div', class_="name")
-
 
     clear_list = []
     for i in range(len(raw_list)):
@@ -29,11 +28,6 @@ def ripper(dir_with_films):
                 json.dump(ds, g, indent=2)
 
 
-
-
-
-
-
 def main():
     dir_with_films = os.listdir('Films')
     ripper(dir_with_films)
@@ -41,5 +35,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-

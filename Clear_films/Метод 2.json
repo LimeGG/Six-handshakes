@@ -1,0 +1,358 @@
+{
+  "film_name": "Метод 2",
+  "film_href": "https://www.kinopoisk.ru/series/1238997/",
+  "actors": [
+    {
+      "actor_name": "Александр Войтинский",
+      "actor_href": "https://www.kinopoisk.ru//name/1720845/"
+    },
+    {
+      "actor_name": "Паулина Андреева",
+      "actor_href": "https://www.kinopoisk.ru//name/3429664/"
+    },
+    {
+      "actor_name": "Константин Хабенский",
+      "actor_href": "https://www.kinopoisk.ru//name/231512/"
+    },
+    {
+      "actor_name": "Александр Петров",
+      "actor_href": "https://www.kinopoisk.ru//name/2286874/"
+    },
+    {
+      "actor_name": "Макар Запорожский",
+      "actor_href": "https://www.kinopoisk.ru//name/1665268/"
+    },
+    {
+      "actor_name": "Егор Корешков",
+      "actor_href": "https://www.kinopoisk.ru//name/1828495/"
+    },
+    {
+      "actor_name": "Виталий Кищенко",
+      "actor_href": "https://www.kinopoisk.ru//name/1562411/"
+    },
+    {
+      "actor_name": "Сергей Сосновский",
+      "actor_href": "https://www.kinopoisk.ru//name/1634413/"
+    },
+    {
+      "actor_name": "Евгения Симонова",
+      "actor_href": "https://www.kinopoisk.ru//name/273270/"
+    },
+    {
+      "actor_name": "Полина Лунегова",
+      "actor_href": "https://www.kinopoisk.ru//name/1561929/"
+    },
+    {
+      "actor_name": "Анастасия Попова",
+      "actor_href": "https://www.kinopoisk.ru//name/2969674/"
+    },
+    {
+      "actor_name": "Василий Копейкин",
+      "actor_href": "https://www.kinopoisk.ru//name/3918595/"
+    },
+    {
+      "actor_name": "Алина Чернобровкина",
+      "actor_href": "https://www.kinopoisk.ru//name/5501502/"
+    },
+    {
+      "actor_name": "Сергей Гармаш",
+      "actor_href": "https://www.kinopoisk.ru//name/231313/"
+    },
+    {
+      "actor_name": "Юлия Франц",
+      "actor_href": "https://www.kinopoisk.ru//name/3258323/"
+    },
+    {
+      "actor_name": "Валентина Мазунина",
+      "actor_href": "https://www.kinopoisk.ru//name/2310826/"
+    },
+    {
+      "actor_name": "Анна Глаубэ",
+      "actor_href": "https://www.kinopoisk.ru//name/2373684/"
+    },
+    {
+      "actor_name": "Никита Тарасов",
+      "actor_href": "https://www.kinopoisk.ru//name/604194/"
+    },
+    {
+      "actor_name": "Петр Нестеров",
+      "actor_href": "https://www.kinopoisk.ru//name/2952674/"
+    },
+    {
+      "actor_name": "Наталья Земцова",
+      "actor_href": "https://www.kinopoisk.ru//name/2275013/"
+    },
+    {
+      "actor_name": "Руслан Щедрин",
+      "actor_href": "https://www.kinopoisk.ru//name/1625266/"
+    },
+    {
+      "actor_name": "Анастасия Привалова",
+      "actor_href": "https://www.kinopoisk.ru//name/2899785/"
+    },
+    {
+      "actor_name": "Николай Ширяев",
+      "actor_href": "https://www.kinopoisk.ru//name/3028018/"
+    },
+    {
+      "actor_name": "Алексей Ушаков",
+      "actor_href": "https://www.kinopoisk.ru//name/4752395/"
+    },
+    {
+      "actor_name": "Иван Титяев",
+      "actor_href": "https://www.kinopoisk.ru//name/4718565/"
+    },
+    {
+      "actor_name": "Михаил Коновалов",
+      "actor_href": "https://www.kinopoisk.ru//name/4164506/"
+    },
+    {
+      "actor_name": "Роман Синицын",
+      "actor_href": "https://www.kinopoisk.ru//name/1873369/"
+    },
+    {
+      "actor_name": "Александр Буянов",
+      "actor_href": "https://www.kinopoisk.ru//name/5258526/"
+    },
+    {
+      "actor_name": "Максим Карушев",
+      "actor_href": "https://www.kinopoisk.ru//name/3927042/"
+    },
+    {
+      "actor_name": "Валерия Яковлева",
+      "actor_href": "https://www.kinopoisk.ru//name/586273/"
+    },
+    {
+      "actor_name": "Павел Устинов",
+      "actor_href": "https://www.kinopoisk.ru//name/5326852/"
+    },
+    {
+      "actor_name": "Илья Шарипов",
+      "actor_href": "https://www.kinopoisk.ru//name/5344638/"
+    },
+    {
+      "actor_name": "Елена Коллегова",
+      "actor_href": "https://www.kinopoisk.ru//name/269677/"
+    },
+    {
+      "actor_name": "Виктория Коваленко",
+      "actor_href": "https://www.kinopoisk.ru//name/3920109/"
+    },
+    {
+      "actor_name": "Дмитрий Янышевский",
+      "actor_href": "https://www.kinopoisk.ru//name/2347397/"
+    },
+    {
+      "actor_name": "Микаэлла Дель",
+      "actor_href": "https://www.kinopoisk.ru//name/3718898/"
+    },
+    {
+      "actor_name": "Евгений Сафронов",
+      "actor_href": "https://www.kinopoisk.ru//name/2454633/"
+    },
+    {
+      "actor_name": "Евгения Каверау",
+      "actor_href": "https://www.kinopoisk.ru//name/2383487/"
+    },
+    {
+      "actor_name": "Артём Жигулин",
+      "actor_href": "https://www.kinopoisk.ru//name/4732167/"
+    },
+    {
+      "actor_name": "Сергей Климков",
+      "actor_href": "https://www.kinopoisk.ru//name/2723169/"
+    },
+    {
+      "actor_name": "Александр Силаев",
+      "actor_href": "https://www.kinopoisk.ru//name/2384724/"
+    },
+    {
+      "actor_name": "Елизавета Водолазская",
+      "actor_href": "https://www.kinopoisk.ru//name/1557068/"
+    },
+    {
+      "actor_name": "Василий Жуков",
+      "actor_href": "https://www.kinopoisk.ru//name/5401400/"
+    },
+    {
+      "actor_name": "Анна Калабина",
+      "actor_href": "https://www.kinopoisk.ru//name/4340788/"
+    },
+    {
+      "actor_name": "Леонид Ардо",
+      "actor_href": "https://www.kinopoisk.ru//name/3871649/"
+    },
+    {
+      "actor_name": "Светлана Виноградова-Богатт",
+      "actor_href": "https://www.kinopoisk.ru//name/2844431/"
+    },
+    {
+      "actor_name": "Андрей Кочинов",
+      "actor_href": "https://www.kinopoisk.ru//name/2317799/"
+    },
+    {
+      "actor_name": "Анна Карышева",
+      "actor_href": "https://www.kinopoisk.ru//name/2507370/"
+    },
+    {
+      "actor_name": "Артем Фадеев",
+      "actor_href": "https://www.kinopoisk.ru//name/1975735/"
+    },
+    {
+      "actor_name": "Дарья Логинова",
+      "actor_href": "https://www.kinopoisk.ru//name/3635624/"
+    },
+    {
+      "actor_name": "Данила Калабин",
+      "actor_href": "https://www.kinopoisk.ru//name/3366585/"
+    },
+    {
+      "actor_name": "Фёдор Подчезерцев",
+      "actor_href": "https://www.kinopoisk.ru//name/3650483/"
+    },
+    {
+      "actor_name": "Сергей Ракша",
+      "actor_href": "https://www.kinopoisk.ru//name/5896203/"
+    },
+    {
+      "actor_name": "Алена Фалалеева",
+      "actor_href": "https://www.kinopoisk.ru//name/1205130/"
+    },
+    {
+      "actor_name": "Владимир Андриянов",
+      "actor_href": "https://www.kinopoisk.ru//name/5215108/"
+    },
+    {
+      "actor_name": "Кирилл Полухин",
+      "actor_href": "https://www.kinopoisk.ru//name/1620685/"
+    },
+    {
+      "actor_name": "Сергей Гурьев",
+      "actor_href": "https://www.kinopoisk.ru//name/1629368/"
+    },
+    {
+      "actor_name": "Елена Николаева",
+      "actor_href": "https://www.kinopoisk.ru//name/1608415/"
+    },
+    {
+      "actor_name": "Владимир Литвин",
+      "actor_href": "https://www.kinopoisk.ru//name/5783045/"
+    },
+    {
+      "actor_name": "Нина Антюхова",
+      "actor_href": "https://www.kinopoisk.ru//name/2660632/"
+    },
+    {
+      "actor_name": "Дарина Фёдорова",
+      "actor_href": "https://www.kinopoisk.ru//name/3725504/"
+    },
+    {
+      "actor_name": "Евгений Черкашин",
+      "actor_href": "https://www.kinopoisk.ru//name/5977686/"
+    },
+    {
+      "actor_name": "Светлана Устинова",
+      "actor_href": "https://www.kinopoisk.ru//name/673940/"
+    },
+    {
+      "actor_name": "Даниил Воробьев",
+      "actor_href": "https://www.kinopoisk.ru//name/1607904/"
+    },
+    {
+      "actor_name": "Роман Маякин",
+      "actor_href": "https://www.kinopoisk.ru//name/1625504/"
+    },
+    {
+      "actor_name": "Юлия Хлынина",
+      "actor_href": "https://www.kinopoisk.ru//name/2807132/"
+    },
+    {
+      "actor_name": "Александр Наумов",
+      "actor_href": "https://www.kinopoisk.ru//name/1054949/"
+    },
+    {
+      "actor_name": "Артур Сопельник",
+      "actor_href": "https://www.kinopoisk.ru//name/1434273/"
+    },
+    {
+      "actor_name": "Павел Чинарёв",
+      "actor_href": "https://www.kinopoisk.ru//name/2294822/"
+    },
+    {
+      "actor_name": "Вильма Кутавичюте",
+      "actor_href": "https://www.kinopoisk.ru//name/2383805/"
+    },
+    {
+      "actor_name": "Энтони Бэшоу",
+      "actor_href": "https://www.kinopoisk.ru//name/4320722/"
+    },
+    {
+      "actor_name": "Марта Тимофеева",
+      "actor_href": "https://www.kinopoisk.ru//name/4138819/"
+    },
+    {
+      "actor_name": "Александр Цекало",
+      "actor_href": "https://www.kinopoisk.ru//name/245732/"
+    },
+    {
+      "actor_name": "Ян Цапник",
+      "actor_href": "https://www.kinopoisk.ru//name/298467/"
+    },
+    {
+      "actor_name": "Александр Цекало",
+      "actor_href": "https://www.kinopoisk.ru//name/245732/"
+    },
+    {
+      "actor_name": "Иван Самохвалов",
+      "actor_href": "https://www.kinopoisk.ru//name/2802374/"
+    },
+    {
+      "actor_name": "Александра Ремизова",
+      "actor_href": "https://www.kinopoisk.ru//name/2317924/"
+    },
+    {
+      "actor_name": "Андрей Резник",
+      "actor_href": "https://www.kinopoisk.ru//name/1560935/"
+    },
+    {
+      "actor_name": "Максим Полинский",
+      "actor_href": "https://www.kinopoisk.ru//name/2424626/"
+    },
+    {
+      "actor_name": "Николай Булыгин",
+      "actor_href": "https://www.kinopoisk.ru//name/2302923/"
+    },
+    {
+      "actor_name": "Ксения Бабанова",
+      "actor_href": "https://www.kinopoisk.ru//name/4046291/"
+    },
+    {
+      "actor_name": "Ольга Никулина",
+      "actor_href": "https://www.kinopoisk.ru//name/5579654/"
+    },
+    {
+      "actor_name": "Олег Маловичко",
+      "actor_href": "https://www.kinopoisk.ru//name/1333823/"
+    },
+    {
+      "actor_name": "Сергей Калужанов",
+      "actor_href": "https://www.kinopoisk.ru//name/1557243/"
+    },
+    {
+      "actor_name": "Николай Богачёв",
+      "actor_href": "https://www.kinopoisk.ru//name/1700507/"
+    },
+    {
+      "actor_name": "Райан Оттер",
+      "actor_href": "https://www.kinopoisk.ru//name/3691160/"
+    },
+    {
+      "actor_name": "Екатерина Ястремская",
+      "actor_href": "https://www.kinopoisk.ru//name/2397791/"
+    },
+    {
+      "actor_name": "Мария Швачкина",
+      "actor_href": "https://www.kinopoisk.ru//name/4202217/"
+    }
+  ]
+}
