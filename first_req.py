@@ -1,9 +1,7 @@
-import requests
-from selenium import webdriver
-import os
-import time
 import json
+import time
 
+from selenium import webdriver
 
 headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0'
@@ -13,23 +11,9 @@ dc = {'Данила Козловский': 'https://www.kinopoisk.ru/name/105495
       "Джесси Айзенберг": "https://www.kinopoisk.ru/name/43221/", 'Бен Аффлек':'https://www.kinopoisk.ru/name/10620/', 'Марго Робби':'https://www.kinopoisk.ru/name/1682023/', 'Леонардо Ди Каприо':'https://www.kinopoisk.ru/name/37859/'
       }
 
-# f1 = requests.get('https://www.kinopoisk.ru/name/25248/', headers=headers).text
-# print(f1)
-# with open(f'key.html', 'w') as f:
-#     f.write(f1)
-
-
-# for key in dc.keys():
-#     if key not in os.listdir():
-#         os.mkdir(key)
-#     os.chdir(key)
-#     with open(f'{key}.html', 'w') as f:
-#         f1 = requests.get(dc[key], headers=headers).text
-#         f.write(f1)
 
 driver = webdriver.Firefox()
 driver.get("https://www.kinopoisk.ru")
-#driver.get("https://www.kinopoisk.ru/name/1054956/")
 time.sleep(1)
 submit_api = driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[3]/div/button')
 submit_api.click()
