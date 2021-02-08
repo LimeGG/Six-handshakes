@@ -2,7 +2,6 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-
 def cinema(film):
     soup = BeautifulSoup(film, features="lxml")
     raw_film_name = soup.find_all('h1')[1].find('a')

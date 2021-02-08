@@ -25,8 +25,10 @@ login = driver.find_element_by_xpath('//*[@id="passp-field-login"]')
 login.clear()
 login.send_keys(cred['username'])
 
+
 element_login = driver.find_element_by_xpath('/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div/div/div[1]/form/div[3]')
 element_login.click()
+
 
 login_pass = driver.find_element_by_xpath('//*[@id="passp-field-passwd"]')
 login_pass.send_keys(cred['password'])
@@ -46,14 +48,6 @@ element_search = driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/head
 print(element_search)
 element_search.send_keys('Александр Петров')
 driver.find_element_by_xpath('/html/body/div[1]/div/div[5]/header/div/div/div[2]/div/div[2]/div/form/div/div/button').click()
-
-#driver.get('https://www.kinopoisk.ru/film/566495/cast/')
-
-# actors = driver.find_element_by_xpath('/html/body/main/div[4]/div[1]/table/tbody/tr/td[1]/div/div[3]')
-# petrov = {'petrov_112676': [{'khabenskii_123': 'method'}, {'khabenskii_1223': 'method'}]}
-
-
-
 
 time.sleep(25)
 
