@@ -4,34 +4,9 @@ from pathlib import PureWindowsPath
 import json
 
 
-# for file in os.listdir('Actors'):
-#     with open(PureWindowsPath('Actors', file), 'r', encoding='utf-8') as f:
-#         s = f.read()
-#
-#     soup = BeautifulSoup(s, features="lxml")
-#
-#     raw_list = soup.find_all('a')
-#     clear_ = []
-#
-#     for i in range(len(raw_list)):
-#         if str(raw_list[i]).count('styles_mainTitle'):
-#             clear_.append(raw_list[i])
-#
-#     temp = str(clear_[0])
-#
-#     clear_dict = {}
-#     for i in range(len(clear_)):
-#         temp = str(clear_[i])
-#         temp_clear = temp[temp.find('span class="styles_mainTitle') + 1:temp.find('</span>')]
-#         clear = temp_clear[temp_clear.find('>') + 1:]
-#         clear_dict[clear] = clear_[i].get('href')
-#
-#     print(clear_dict)
-
-
 def cinema(film):
     soup = BeautifulSoup(film, features="lxml")
-    raw_film_name = soup.find_all('h1')[1].find('a')
+    raw_film_name = soup.find_all('h1')[0]
     film_href = f"https://www.kinopoisk.ru{raw_film_name.get('href')}"
     raw_film_name_str = str(raw_film_name)
     film_name = raw_film_name_str[raw_film_name_str.find('>') + 1:raw_film_name_str.find('</a')]
@@ -48,21 +23,24 @@ def cinema(film):
 
 def actors(actor):
     soup = BeautifulSoup(actor, features="lxml")
-    raw_actor_name = soup.find_all('h1')[1].find('a')
-    actor_name = raw_actor_name[raw_actor_name.find('>') + 1:raw_actor_name.find('</a')]
+    raw_actor_name = str(soup.find_all('h1')[0])
+    actor_name = raw_actor_name[raw_actor_name.find('>') + 1:raw_actor_name.find('</h1')]
+    actor_href = soup.find(rel="canonical").get('href')
     raw_list = soup.find_all('a')
 
     clear_ = []
     for i in range(len(raw_list)):
         if str(raw_list[i]).count('styles_mainTitle'):
             clear_.append(raw_list[i])
-    actor_href = f"https://www.kinopoisk.ru{raw_actor_name.get('href')}"
 
     clear_list = []
-    for i in range(len(raw_list)):
-        temp = str(raw_list[i])
-        temp_clear = temp[temp.find('span class="styles_mainTitle') + 1:temp.find('</span>')]
-        clear_list.append(dict(film_name=temp_clear[1], film_href="https://www.kinopoisk.ru/" + temp_clear[0]))
+    for i in range(len(clear_)):
+        temp = str(clear_[i])
+        temp = temp[temp.find('span class'):temp.find('</span')]
+        film_name = temp[temp.find('>') + 1:]
+        film_href = clear_[i].get('href')
+        clear_list.append(dict(film_name=film_name,
+                               film_href=f"https://www.kinopoisk.ru/{film_href}".replace('////', '//')))
 
     return dict(actor_name=actor_name, actor_href=actor_href, films=clear_list)
 
@@ -72,12 +50,12 @@ def ripper(dir_with_films, ripper_type):
         with open(PureWindowsPath(ripper_type, film), 'r', encoding='utf-8') as f:
             if ripper_type == "Films":
                 ds = cinema(f.read())
-                with open(f'Clear_{ripper_type}\\{ds["film_name"]}.json', 'w') as g:
-                    json.dump(ds, g, indent=2)
+                with open(f'Clear_{ripper_type}\\{ds["film_name"]}.json', 'w', encoding='utf-8') as g:
+                    json.dump(ds, g, indent=2, ensure_ascii=False)
             else:
-                ds = cinema(f.read())
-                with open(f'Clear_{ripper_type}\\{ds["actor_name"]}.json', 'w') as g:
-                    json.dump(ds, g, indent=2)
+                ds = actors(f.read())
+                with open(f'Clear_{ripper_type}\\{ds["actor_name"]}.json', 'w', encoding='utf-8') as g:
+                    json.dump(ds, g, indent=2, ensure_ascii=False)
 
 
 def main():
