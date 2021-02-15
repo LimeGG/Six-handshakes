@@ -1,0 +1,70 @@
+{
+  "film_name": "Вишневый сад",
+  "film_href": "https://www.kinopoisk.ru/film/1301757/",
+  "actors": [
+    {
+      "actor_name": "Владимир Мирзоев",
+      "actor_href": "https://www.kinopoisk.ru//name/1078306/"
+    },
+    {
+      "actor_name": "Вера Воронкова",
+      "actor_href": "https://www.kinopoisk.ru//name/231314/"
+    },
+    {
+      "actor_name": "Наталья Рева",
+      "actor_href": "https://www.kinopoisk.ru//name/1188487/"
+    },
+    {
+      "actor_name": "Виктория Исакова",
+      "actor_href": "https://www.kinopoisk.ru//name/915997/"
+    },
+    {
+      "actor_name": "Александр Петров",
+      "actor_href": "https://www.kinopoisk.ru//name/2286874/"
+    },
+    {
+      "actor_name": "Константин Похмелов",
+      "actor_href": "https://www.kinopoisk.ru//name/1771365/"
+    },
+    {
+      "actor_name": "Артём Борзовский",
+      "actor_href": "https://www.kinopoisk.ru//name/4564829/"
+    },
+    {
+      "actor_name": "Анастасия Мытражик",
+      "actor_href": "https://www.kinopoisk.ru//name/4025916/"
+    },
+    {
+      "actor_name": "Таисия Вилкова",
+      "actor_href": "https://www.kinopoisk.ru//name/1628956/"
+    },
+    {
+      "actor_name": "Артём Ешкин",
+      "actor_href": "https://www.kinopoisk.ru//name/4536518/"
+    },
+    {
+      "actor_name": "Андрей Сухов",
+      "actor_href": "https://www.kinopoisk.ru//name/1172629/"
+    },
+    {
+      "actor_name": "Роман Борзовский",
+      "actor_href": "https://www.kinopoisk.ru//name/4564831/"
+    },
+    {
+      "actor_name": "Сергей Миллер",
+      "actor_href": "https://www.kinopoisk.ru//name/563998/"
+    },
+    {
+      "actor_name": "Михаил Жигалов",
+      "actor_href": "https://www.kinopoisk.ru//name/266191/"
+    },
+    {
+      "actor_name": "Александр Дмитриев",
+      "actor_href": "https://www.kinopoisk.ru//name/3372975/"
+    },
+    {
+      "actor_name": "Антон Чехов",
+      "actor_href": "https://www.kinopoisk.ru//name/13295/"
+    }
+  ]
+}

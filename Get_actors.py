@@ -1,3 +1,5 @@
+import os
+from pathlib import PureWindowsPath
 import json
 import time
 
@@ -6,17 +8,6 @@ from selenium import webdriver
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0'
 }
-
-dict_with_actors = {'Данила Козловский': 'https://www.kinopoisk.ru/name/1054956/',
-                    'Сергей Безруков': 'https://www.kinopoisk.ru/name/224620/',
-                    'Александр Петров': 'https://www.kinopoisk.ru/name/2286874/',
-                    "Зои Дойч": 'https://www.kinopoisk.ru/name/2347339/',
-                    "Джесси Айзенберг": "https://www.kinopoisk.ru/name/43221/",
-                    'Бен Аффлек': 'https://www.kinopoisk.ru/name/10620/',
-                    'Марго Робби': 'https://www.kinopoisk.ru/name/1682023/',
-                    'Леонардо Ди Каприо': 'https://www.kinopoisk.ru/name/37859/'
-                    }
-driver_firefox = webdriver.Firefox()
 
 
 def login(driver):
@@ -64,14 +55,35 @@ def get_actor_page(driver, actor_href):
     return driver.page_source
 
 
-login(driver_firefox)
+def main():
+    driver_firefox = webdriver.Firefox()
+    login(driver_firefox)
+    time.sleep(25)
 
-for key in dict_with_actors.keys():
-    time.sleep(2)
-    with open(f'Actors\\{key}.html', 'w', encoding='utf-8') as f:
-        f.write(get_actor_page(driver_firefox, dict_with_actors[key]))
-        print(f'{key} was written!')
+    dir_with_clear_films = os.listdir('Clear_Films')
+    for film in dir_with_clear_films:
+        with open(PureWindowsPath('Clear_Films', film), 'r', encoding='utf-8') as file:
+            actors_list = json.load(file)['actors']
+            for actor in actors_list:
+                with open(PureWindowsPath('Actors', f'{actor["actor_name"]}.html'), 'w', encoding='utf-8') as f:
+                    f.write(get_actor_page(driver_firefox, actor["actor_href"]))
+                    print(f'{actor["actor_name"]} was written!')
 
-time.sleep(25)
+    # for key in dict_with_actors.keys():
+    #     time.sleep(2)
+    #     with open(f'Actors\\{key}.html', 'w', encoding='utf-8') as f:
+    #         f.write(get_actor_page(driver_firefox, dict_with_actors[key]))
+    #         print(f'{key} was written!')
 
-driver_firefox.close()
+    driver_firefox.close()
+
+
+# for key in dict_with_actors.keys():
+#     time.sleep(2)
+#     with open(f'Actors\\{key}.html', 'w', encoding='utf-8') as f:
+#         f.write(get_actor_page(driver_firefox, dict_with_actors[key]))
+#         print(f'{key} was written!')
+
+
+if __name__ == '__main__':
+    main()
