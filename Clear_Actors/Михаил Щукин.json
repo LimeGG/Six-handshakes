@@ -1,0 +1,34 @@
+{
+  "actor_name": "Михаил Щукин",
+  "actor_href": "https://www.kinopoisk.ru/name/4495974/",
+  "films": [
+    {
+      "film_name": "Сентенция (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309163/"
+    },
+    {
+      "film_name": "Цой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1285413/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Китобой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309166/"
+    },
+    {
+      "film_name": "Хэппи-энд (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/994530/"
+    },
+    {
+      "film_name": "Трудности выживания (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049514/"
+    },
+    {
+      "film_name": "Медведь (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/996388/"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "actor_name": "Джеймс Джойнт",
+  "actor_href": "https://www.kinopoisk.ru/name/1541898/",
+  "films": [
+    {
+      "film_name": "Camino al mar",
+      "film_href": "https:/www.kinopoisk.ru/film/1074116/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Solange (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1185032/"
+    },
+    {
+      "film_name": "Версаль (сериал, 2015 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/891576/"
+    },
+    {
+      "film_name": "Французская лихорадка! (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/594082/"
+    },
+    {
+      "film_name": "La Statue de la Liberté naissance d'un symbole (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/875502/"
+    },
+    {
+      "film_name": "El Xendra (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/765629/"
+    },
+    {
+      "film_name": "Супербабуля.com (ТВ, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/401897/"
+    },
+    {
+      "film_name": "Малые городские мифы (сериал, 2003 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/542514/"
+    },
+    {
+      "film_name": "Комиссар (сериал, 1999 – 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/573274/"
+    }
+  ]
+}

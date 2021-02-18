@@ -1,0 +1,42 @@
+{
+  "actor_name": "Виктория Кир",
+  "actor_href": "https://www.kinopoisk.ru/name/1528504/",
+  "films": [
+    {
+      "film_name": "The Amazings (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1143711/"
+    },
+    {
+      "film_name": "Diana and I (ТВ, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046414/"
+    },
+    {
+      "film_name": "Ой, мамочки (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/997033/"
+    },
+    {
+      "film_name": "Мистер Штайн идёт в онлайн (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/986526/"
+    },
+    {
+      "film_name": "By the Book (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/729027/"
+    },
+    {
+      "film_name": "Шериф (сериал, 2013 – 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/806683/"
+    },
+    {
+      "film_name": "The Last Harbor (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/433006/"
+    },
+    {
+      "film_name": "Black Russian (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/400889/"
+    },
+    {
+      "film_name": "Celibate in Chelsea (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/523219/"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "film_name": "Т-34",
+  "film_href": "https://www.kinopoisk.ru/film/930878/",
+  "actors": [
+    {
+      "actor_name": "Алексей Сидоров",
+      "actor_href": "https://www.kinopoisk.ru//name/539451/"
+    },
+    {
+      "actor_name": "Александр Петров",
+      "actor_href": "https://www.kinopoisk.ru//name/2286874/"
+    },
+    {
+      "actor_name": "Виктор Добронравов",
+      "actor_href": "https://www.kinopoisk.ru//name/558097/"
+    },
+    {
+      "actor_name": "Ирина Старшенбаум",
+      "actor_href": "https://www.kinopoisk.ru//name/3873197/"
+    },
+    {
+      "actor_name": "Винценц Кифер",
+      "actor_href": "https://www.kinopoisk.ru//name/424233/"
+    },
+    {
+      "actor_name": "Петр Скворцов",
+      "actor_href": "https://www.kinopoisk.ru//name/1568512/"
+    },
+    {
+      "actor_name": "Семен Трескунов",
+      "actor_href": "https://www.kinopoisk.ru//name/2672524/"
+    },
+    {
+      "actor_name": "Антон Богданов",
+      "actor_href": "https://www.kinopoisk.ru//name/2305034/"
+    },
+    {
+      "actor_name": "Василий Уриевский",
+      "actor_href": "https://www.kinopoisk.ru//name/4650753/"
+    },
+    {
+      "actor_name": "Василий Буткевич",
+      "actor_href": "https://www.kinopoisk.ru//name/3397572/"
+    },
+    {
+      "actor_name": "Ярослав Штефан",
+      "actor_href": "https://www.kinopoisk.ru//name/3901633/"
+    },
+    {
+      "actor_name": "Кирилл Лопаткин",
+      "actor_href": "https://www.kinopoisk.ru//name/4713743/"
+    },
+    {
+      "actor_name": "Полина Волкова",
+      "actor_href": "https://www.kinopoisk.ru//name/4564714/"
+    },
+    {
+      "actor_name": "Юра Борисов",
+      "actor_href": "https://www.kinopoisk.ru//name/2286839/"
+    },
+    {
+      "actor_name": "Игорь Хрипунов",
+      "actor_href": "https://www.kinopoisk.ru//name/1634415/"
+    },
+    {
+      "actor_name": "Пауль Орлянский",
+      "actor_href": "https://www.kinopoisk.ru//name/4720755/"
+    },
+    {
+      "actor_name": "Артур Сопельник",
+      "actor_href": "https://www.kinopoisk.ru//name/1434273/"
+    },
+    {
+      "actor_name": "Гурам Баблишвили",
+      "actor_href": "https://www.kinopoisk.ru//name/1705451/"
+    },
+    {
+      "actor_name": "Владислав Манин",
+      "actor_href": "https://www.kinopoisk.ru//name/5236027/"
+    },
+    {
+      "actor_name": "Микаэль Джанибекян",
+      "actor_href": "https://www.kinopoisk.ru//name/294769/"
+    },
+    {
+      "actor_name": "Елена Дробышева",
+      "actor_href": "https://www.kinopoisk.ru//name/273012/"
+    },
+    {
+      "actor_name": "Джошуа Гроте",
+      "actor_href": "https://www.kinopoisk.ru//name/3031579/"
+    },
+    {
+      "actor_name": "Данила Рассомахин",
+      "actor_href": "https://www.kinopoisk.ru//name/1927428/"
+    },
+    {
+      "actor_name": "Дирк Симпсон",
+      "actor_href": "https://www.kinopoisk.ru//name/1134037/"
+    },
+    {
+      "actor_name": "Вольфганг Черни",
+      "actor_href": "https://www.kinopoisk.ru//name/2213025/"
+    },
+    {
+      "actor_name": "Артем Быстров",
+      "actor_href": "https://www.kinopoisk.ru//name/2461035/"
+    },
+    {
+      "actor_name": "Антон Шурцов",
+      "actor_href": "https://www.kinopoisk.ru//name/1759163/"
+    },
+    {
+      "actor_name": "Семён Шемес",
+      "actor_href": "https://www.kinopoisk.ru//name/3911836/"
+    },
+    {
+      "actor_name": "Алексей Ушаков",
+      "actor_href": "https://www.kinopoisk.ru//name/4752395/"
+    },
+    {
+      "actor_name": "Владимир Виноградов",
+      "actor_href": "https://www.kinopoisk.ru//name/231230/"
+    },
+    {
+      "actor_name": "Александр Запорожец",
+      "actor_href": "https://www.kinopoisk.ru//name/2221788/"
+    },
+    {
+      "actor_name": "Кирилл Гончаров",
+      "actor_href": "https://www.kinopoisk.ru//name/2942256/"
+    },
+    {
+      "actor_name": "Данил Тябин",
+      "actor_href": "https://www.kinopoisk.ru//name/3725878/"
+    },
+    {
+      "actor_name": "Дмитрий Чинков",
+      "actor_href": "https://www.kinopoisk.ru//name/5026984/"
+    },
+    {
+      "actor_name": "Дмитрий Коваленко",
+      "actor_href": "https://www.kinopoisk.ru//name/5656230/"
+    },
+    {
+      "actor_name": "Валерий Бушуев",
+      "actor_href": "https://www.kinopoisk.ru//name/4792034/"
+    },
+    {
+      "actor_name": "Рубен Дишдишян",
+      "actor_href": "https://www.kinopoisk.ru//name/224372/"
+    },
+    {
+      "actor_name": "Антон Златопольский",
+      "actor_href": "https://www.kinopoisk.ru//name/1114340/"
+    },
+    {
+      "actor_name": "Леонард Блаватник",
+      "actor_href": "https://www.kinopoisk.ru//name/3204029/"
+    },
+    {
+      "actor_name": "Нелли Яралова",
+      "actor_href": "https://www.kinopoisk.ru//name/2856570/"
+    },
+    {
+      "actor_name": "Никита Михалков",
+      "actor_href": "https://www.kinopoisk.ru//name/101749/"
+    },
+    {
+      "actor_name": "Леонид Верещагин",
+      "actor_href": "https://www.kinopoisk.ru//name/101779/"
+    },
+    {
+      "actor_name": "Юлия Иванова",
+      "actor_href": "https://www.kinopoisk.ru//name/5019857/"
+    },
+    {
+      "actor_name": "Николай Ларионов",
+      "actor_href": "https://www.kinopoisk.ru//name/4756832/"
+    },
+    {
+      "actor_name": "Михаил Китаев",
+      "actor_href": "https://www.kinopoisk.ru//name/3060547/"
+    },
+    {
+      "actor_name": "Алексей Сидоров",
+      "actor_href": "https://www.kinopoisk.ru//name/539451/"
+    },
+    {
+      "actor_name": "Михаил Милашин",
+      "actor_href": "https://www.kinopoisk.ru//name/2900081/"
+    },
+    {
+      "actor_name": "Иван Бурляев",
+      "actor_href": "https://www.kinopoisk.ru//name/304435/"
+    },
+    {
+      "actor_name": "Дмитрий Носков",
+      "actor_href": "https://www.kinopoisk.ru//name/2301717/"
+    },
+    {
+      "actor_name": "Вадим Маевский",
+      "actor_href": "https://www.kinopoisk.ru//name/1827863/"
+    },
+    {
+      "actor_name": "Александр Туркунов",
+      "actor_href": "https://www.kinopoisk.ru//name/2420998/"
+    },
+    {
+      "actor_name": "Константин Пахотин",
+      "actor_href": "https://www.kinopoisk.ru//name/2008028/"
+    },
+    {
+      "actor_name": "Алиса Доник",
+      "actor_href": "https://www.kinopoisk.ru//name/4649733/"
+    },
+    {
+      "actor_name": "Ульяна Полянская",
+      "actor_href": "https://www.kinopoisk.ru//name/2838338/"
+    },
+    {
+      "actor_name": "Дмитрий Корабельников",
+      "actor_href": "https://www.kinopoisk.ru//name/3226259/"
+    }
+  ]
+}

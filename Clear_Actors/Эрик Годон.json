@@ -1,0 +1,418 @@
+{
+  "actor_name": "Эрик Годон",
+  "actor_href": "https://www.kinopoisk.ru/name/403664/",
+  "films": [
+    {
+      "film_name": "Sherlock Holmes vs. Frankenstein",
+      "film_href": "https:/www.kinopoisk.ru/film/910098/"
+    },
+    {
+      "film_name": "Expressiveless",
+      "film_href": "https:/www.kinopoisk.ru/film/949829/"
+    },
+    {
+      "film_name": "Undergods (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1120448/"
+    },
+    {
+      "film_name": "Freaks Out (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1059104/"
+    },
+    {
+      "film_name": "Пятый маршрут (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1328455/"
+    },
+    {
+      "film_name": "Calibro 9 (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1330000/"
+    },
+    {
+      "film_name": "CDD Corpus Crisis (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1298767/"
+    },
+    {
+      "film_name": "Пациент Зеро (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309571/"
+    },
+    {
+      "film_name": "Le temps est assassin (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1274013/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Бунтарки (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1141707/"
+    },
+    {
+      "film_name": "Самая убиваемая женщина в мире (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1013155/"
+    },
+    {
+      "film_name": "Двойное лицо (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/567206/"
+    },
+    {
+      "film_name": "Jehovah (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1119714/"
+    },
+    {
+      "film_name": "Greenhouse Academy (сериал, 2017 – 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1048694/"
+    },
+    {
+      "film_name": "Паломничество (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/893498/"
+    },
+    {
+      "film_name": "Алкион (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/988801/"
+    },
+    {
+      "film_name": "Молодой Карл Маркс (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/557897/"
+    },
+    {
+      "film_name": "The Unreal Root (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/949503/"
+    },
+    {
+      "film_name": "Враг общества (сериал, 2016 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1006668/"
+    },
+    {
+      "film_name": "Жара (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/874646/"
+    },
+    {
+      "film_name": "Арденны (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/727583/"
+    },
+    {
+      "film_name": "Профессор Т.: Особые преступления (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/1209806/"
+    },
+    {
+      "film_name": "Джонни Уокер (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/725282/"
+    },
+    {
+      "film_name": "Ничего святого (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/655861/"
+    },
+    {
+      "film_name": "Похищение Фредди Хайнекена (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/763722/"
+    },
+    {
+      "film_name": "Французский транзит (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/765712/"
+    },
+    {
+      "film_name": "Томбвилл (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/839151/"
+    },
+    {
+      "film_name": "Французская сюита (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/462152/"
+    },
+    {
+      "film_name": "Пропавший без вести (сериал, 2014 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/843138/"
+    },
+    {
+      "film_name": "Août 1914 (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/846194/"
+    },
+    {
+      "film_name": "Рыбалка без сетей (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/822776/"
+    },
+    {
+      "film_name": "Проникновение (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/855235/"
+    },
+    {
+      "film_name": "Легенды (сериал, 2014 – 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/681729/"
+    },
+    {
+      "film_name": "Marie Curie, une femme sur le front (ТВ, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/845423/"
+    },
+    {
+      "film_name": "Допустимая ошибка (ТВ, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/784333/"
+    },
+    {
+      "film_name": "Де Риддер (сериал, 2013 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008247/"
+    },
+    {
+      "film_name": "Арестуйте меня (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/673441/"
+    },
+    {
+      "film_name": "Саламандра (сериал, 2012 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/885379/"
+    },
+    {
+      "film_name": "Клиника любви (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/596836/"
+    },
+    {
+      "film_name": "Innocent Belgium (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/673529/"
+    },
+    {
+      "film_name": "Депрессия и друзья (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/675648/"
+    },
+    {
+      "film_name": "Que la suite soit douce (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/682343/"
+    },
+    {
+      "film_name": "10 золотых дней (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/568766/"
+    },
+    {
+      "film_name": "Экспат (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/524631/"
+    },
+    {
+      "film_name": "Инцидент (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/312859/"
+    },
+    {
+      "film_name": "Все наши желания (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/602330/"
+    },
+    {
+      "film_name": "Плохая склонность (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/261677/"
+    },
+    {
+      "film_name": "Pasteur, l'homme qui a vu (ТВ, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/543782/"
+    },
+    {
+      "film_name": "Dominique (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/570387/"
+    },
+    {
+      "film_name": "Любовь с риском для жизни (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/521801/"
+    },
+    {
+      "film_name": "Frits en Freddy (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/556376/"
+    },
+    {
+      "film_name": "Видок (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/487922/"
+    },
+    {
+      "film_name": "На стройку, месье Таннер! (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/493532/"
+    },
+    {
+      "film_name": "Влюблен до беспамятства (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/495082/"
+    },
+    {
+      "film_name": "Маркиза тьмы (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/495454/"
+    },
+    {
+      "film_name": "Таможня дает добро (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/484623/"
+    },
+    {
+      "film_name": "Каннибал (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/578862/"
+    },
+    {
+      "film_name": "Свора (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/433944/"
+    },
+    {
+      "film_name": "Из Парижа с любовью (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/427202/"
+    },
+    {
+      "film_name": "Заложники (ТВ, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/465305/"
+    },
+    {
+      "film_name": "Налёт (сериал, 2009 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/497678/"
+    },
+    {
+      "film_name": "Сестра-улыбка (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/448967/"
+    },
+    {
+      "film_name": "Légende de Jean l'Inversé (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/567417/"
+    },
+    {
+      "film_name": "Удача винодела (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/278353/"
+    },
+    {
+      "film_name": "Рыбы-молоты (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/420979/"
+    },
+    {
+      "film_name": "Матрешки 2 (мини-сериал, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/428697/"
+    },
+    {
+      "film_name": "Перекрестный огонь (2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/325577/"
+    },
+    {
+      "film_name": "Заговор любителей (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/409259/"
+    },
+    {
+      "film_name": "Сорванцы из Тимпельбаха (2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/278230/"
+    },
+    {
+      "film_name": "Залечь на дно в Брюгге (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/276295/"
+    },
+    {
+      "film_name": "Семейная тайна (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/253117/"
+    },
+    {
+      "film_name": "Зачарованные танцем (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/267162/"
+    },
+    {
+      "film_name": "Новеллы Ги Де Мопассана (сериал, 2007 – 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/460602/"
+    },
+    {
+      "film_name": "Страж закона (сериал, 2007 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/999679/"
+    },
+    {
+      "film_name": "Дочь шеф-повара (ТВ, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/308114/"
+    },
+    {
+      "film_name": "Induction (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/461161/"
+    },
+    {
+      "film_name": "Заяц Ватанена (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/195323/"
+    },
+    {
+      "film_name": "Шторм (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/232373/"
+    },
+    {
+      "film_name": "Avec le temps... (ТВ, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/301814/"
+    },
+    {
+      "film_name": "Pom, le poulain (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/222086/"
+    },
+    {
+      "film_name": "Служба расследований (сериал, 2006 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/402807/"
+    },
+    {
+      "film_name": "Стажеры: Первые шаги в полиции (сериал, 2006 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/584811/"
+    },
+    {
+      "film_name": "Седьмое небо Бельгии (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/591956/"
+    },
+    {
+      "film_name": "Commissaire Cordier (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/258381/"
+    },
+    {
+      "film_name": "Lucile et le petit prince (ТВ, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/318216/"
+    },
+    {
+      "film_name": "Comme sur des roulettes (ТВ, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/367675/"
+    },
+    {
+      "film_name": "Ультранова (2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/147059/"
+    },
+    {
+      "film_name": "Злоумышленник (2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/105857/"
+    },
+    {
+      "film_name": "Неминуемое нападение (ТВ, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/343583/"
+    },
+    {
+      "film_name": "Матрешки (сериал, 2005 – 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/231034/"
+    },
+    {
+      "film_name": "Trois pères à la maison (сериал, 2004 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/448743/"
+    },
+    {
+      "film_name": "Завтра переезжаем (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/61310/"
+    },
+    {
+      "film_name": "Aspe (сериал, 2004 – 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/478878/"
+    },
+    {
+      "film_name": "Witse (сериал, 2004 – 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/439941/"
+    },
+    {
+      "film_name": "Лабиринты (2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/51946/"
+    },
+    {
+      "film_name": "Tous les chagrins se ressemblent (ТВ, 2002)",
+      "film_href": "https:/www.kinopoisk.ru/film/298243/"
+    },
+    {
+      "film_name": "Мелкие неприятности (2002)",
+      "film_href": "https:/www.kinopoisk.ru/film/58046/"
+    },
+    {
+      "film_name": "Семья на время (сериал, 2001 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/839175/"
+    },
+    {
+      "film_name": "Патруль 101 (сериал, 1999 – 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/437378/"
+    },
+    {
+      "film_name": "Союз адвокатов (сериал, 1998 – 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/474833/"
+    },
+    {
+      "film_name": "Уголовная полиция (сериал, 1997 – 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/491546/"
+    },
+    {
+      "film_name": "Жюли Леско (сериал, 1992 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/445120/"
+    }
+  ]
+}

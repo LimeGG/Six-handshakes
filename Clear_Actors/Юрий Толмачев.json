@@ -1,0 +1,18 @@
+{
+  "actor_name": "Юрий Толмачев",
+  "actor_href": "https://www.kinopoisk.ru/name/5291382/",
+  "films": [
+    {
+      "film_name": "Селфи с судьбой (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1181503/"
+    },
+    {
+      "film_name": "Морские дьяволы. Рубежи Родины (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044783/"
+    },
+    {
+      "film_name": "Невский. Проверка на прочность (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1007667/"
+    }
+  ]
+}

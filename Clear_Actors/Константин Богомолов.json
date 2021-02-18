@@ -1,0 +1,34 @@
+{
+  "actor_name": "Константин Богомолов",
+  "actor_href": "https://www.kinopoisk.ru/name/301331/",
+  "films": [
+    {
+      "film_name": "Настя (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/988794/"
+    },
+    {
+      "film_name": "Год, когда я не родился (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/988793/"
+    },
+    {
+      "film_name": "Хороший человек (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1287347/"
+    },
+    {
+      "film_name": "Безопасные связи (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1366093/"
+    },
+    {
+      "film_name": "Коронный выход (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1367772/"
+    },
+    {
+      "film_name": "Содержанки (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1191043/"
+    },
+    {
+      "film_name": "Отцы и дети (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/1395357/"
+    }
+  ]
+}

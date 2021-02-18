@@ -1,0 +1,46 @@
+{
+  "actor_name": "Лорен Ферраро",
+  "actor_href": "https://www.kinopoisk.ru/name/2896699/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Один король — одна Франция (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046450/"
+    },
+    {
+      "film_name": "Дом вверх дном (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1094950/"
+    },
+    {
+      "film_name": "Короли на день (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1040229/"
+    },
+    {
+      "film_name": "Валериан и город тысячи планет (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/689960/"
+    },
+    {
+      "film_name": "Darfimbabwour (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/977839/"
+    },
+    {
+      "film_name": "Перевозчик: Наследие (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/764608/"
+    },
+    {
+      "film_name": "Я люблю тебя (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/893612/"
+    },
+    {
+      "film_name": "Алекс Юго (сериал, 2014 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1316603/"
+    },
+    {
+      "film_name": "Эта смешная жизнь (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/806622/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "actor_name": "Анна Александрова",
+  "actor_href": "https://www.kinopoisk.ru/name/3768322/",
+  "films": [
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Мертвое озеро (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1043854/"
+    },
+    {
+      "film_name": "Духless 2 (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/765103/"
+    }
+  ]
+}

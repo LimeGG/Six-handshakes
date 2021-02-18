@@ -1,0 +1,26 @@
+{
+  "actor_name": "Николай Ширяев",
+  "actor_href": "https://www.kinopoisk.ru/name/3028018/",
+  "films": [
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Любовь на выживание (мини-сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1100397/"
+    },
+    {
+      "film_name": "Бумеранг (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1045808/"
+    },
+    {
+      "film_name": "Метод (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/838050/"
+    },
+    {
+      "film_name": "Мент в законе 6 (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/724708/"
+    }
+  ]
+}

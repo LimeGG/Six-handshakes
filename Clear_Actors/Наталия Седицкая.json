@@ -1,0 +1,42 @@
+{
+  "actor_name": "Наталия Седицкая",
+  "actor_href": "https://www.kinopoisk.ru/name/4173704/",
+  "films": [
+    {
+      "film_name": "Подельники (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/4324950/"
+    },
+    {
+      "film_name": "Спасибо! (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1398968/"
+    },
+    {
+      "film_name": "Настоящее будущее (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1388690/"
+    },
+    {
+      "film_name": "Любовь без размера (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1398964/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Про Веру (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/993594/"
+    },
+    {
+      "film_name": "Мажор 3 (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1040559/"
+    },
+    {
+      "film_name": "Огни большой деревни (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/929650/"
+    },
+    {
+      "film_name": "Мажор 2 (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/957773/"
+    }
+  ]
+}

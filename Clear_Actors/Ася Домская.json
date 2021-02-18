@@ -1,0 +1,70 @@
+{
+  "actor_name": "Ася Домская",
+  "actor_href": "https://www.kinopoisk.ru/name/3682337/",
+  "films": [
+    {
+      "film_name": "Зови меня Дрозд (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1320464/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Небо измеряется милями (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1245325/"
+    },
+    {
+      "film_name": "Новый год, я люблю тебя! (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1278930/"
+    },
+    {
+      "film_name": "До самого солнца (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1073211/"
+    },
+    {
+      "film_name": "Доктор Рихтер (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/991705/"
+    },
+    {
+      "film_name": "Нелюбовь (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/963346/"
+    },
+    {
+      "film_name": "Молодой (ТВ, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1040619/"
+    },
+    {
+      "film_name": "Беглец (ТВ, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1038538/"
+    },
+    {
+      "film_name": "Саша + Даша + Глаша (мини-сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/843285/"
+    },
+    {
+      "film_name": "Пансионат «Сказка», или Чудеса включены (мини-сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/957482/"
+    },
+    {
+      "film_name": "Клинч (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840020/"
+    },
+    {
+      "film_name": "Одинокие души микробов (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/929780/"
+    },
+    {
+      "film_name": "Музаика (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/1112401/"
+    },
+    {
+      "film_name": "Ангел или демон (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/732571/"
+    },
+    {
+      "film_name": "Кодекс чести (сериал, 2004 – 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/414562/"
+    }
+  ]
+}

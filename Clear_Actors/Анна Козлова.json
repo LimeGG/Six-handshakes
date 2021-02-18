@@ -1,0 +1,38 @@
+{
+  "actor_name": "Анна Козлова",
+  "actor_href": "https://www.kinopoisk.ru/name/3626522/",
+  "films": [
+    {
+      "film_name": "Шерлок в России (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1272376/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Давай разведемся! (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1192366/"
+    },
+    {
+      "film_name": "Текст (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234848/"
+    },
+    {
+      "film_name": "Ёлки Последние (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1181562/"
+    },
+    {
+      "film_name": "Ленинград: Кольщик (видео, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045805/"
+    },
+    {
+      "film_name": "Ёлки 5 (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/893500/"
+    },
+    {
+      "film_name": "В зоне готовности (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/838527/"
+    }
+  ]
+}

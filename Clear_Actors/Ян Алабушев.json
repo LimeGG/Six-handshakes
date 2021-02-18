@@ -1,0 +1,54 @@
+{
+  "actor_name": "Ян Алабушев",
+  "actor_href": "https://www.kinopoisk.ru/name/4651713/",
+  "films": [
+    {
+      "film_name": "Артек: Большое путешествие (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1291197/"
+    },
+    {
+      "film_name": "Сказочный патруль. Хроники чудес (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1313569/"
+    },
+    {
+      "film_name": "Пять минут тишины. Новые горизонты (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1291164/"
+    },
+    {
+      "film_name": "Герой (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115467/"
+    },
+    {
+      "film_name": "Жди меня (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1185919/"
+    },
+    {
+      "film_name": "В отражении тебя (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1261550/"
+    },
+    {
+      "film_name": "Пиковая дама: Зазеркалье (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1140394/"
+    },
+    {
+      "film_name": "Гадалка (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1117987/"
+    },
+    {
+      "film_name": "Московская борзая 2 (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1189959/"
+    },
+    {
+      "film_name": "Доктор Рихтер (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/991705/"
+    },
+    {
+      "film_name": "Чужое счастье (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1025981/"
+    },
+    {
+      "film_name": "Московская борзая (сериал, 2015 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/843668/"
+    }
+  ]
+}

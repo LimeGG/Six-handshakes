@@ -1,0 +1,26 @@
+{
+  "actor_name": "Анатолий Баранов",
+  "actor_href": "https://www.kinopoisk.ru/name/6009667/",
+  "films": [
+    {
+      "film_name": "Холоп (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1183582/"
+    },
+    {
+      "film_name": "Два билета домой (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1118074/"
+    },
+    {
+      "film_name": "История одного назначения (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046035/"
+    },
+    {
+      "film_name": "Лабиринты (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1112398/"
+    },
+    {
+      "film_name": "Последняя статья журналиста (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/994622/"
+    }
+  ]
+}

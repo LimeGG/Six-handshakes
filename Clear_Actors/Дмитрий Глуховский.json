@@ -1,0 +1,34 @@
+{
+  "actor_name": "Дмитрий Глуховский",
+  "actor_href": "https://www.kinopoisk.ru/name/2942831/",
+  "films": [
+    {
+      "film_name": "Метро 2033 (2022)",
+      "film_href": "https:/www.kinopoisk.ru/film/1297192/"
+    },
+    {
+      "film_name": "Обещания (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/2041328/"
+    },
+    {
+      "film_name": "Топи (сериал, 2021 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1355060/"
+    },
+    {
+      "film_name": "Сера (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1390594/"
+    },
+    {
+      "film_name": "Metro 2033 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1395989/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Текст (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234848/"
+    }
+  ]
+}

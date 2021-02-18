@@ -1,0 +1,50 @@
+{
+  "actor_name": "Алина Чернобровкина",
+  "actor_href": "https://www.kinopoisk.ru/name/5501502/",
+  "films": [
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Мылодрама 2 (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1297265/"
+    },
+    {
+      "film_name": "Мылодрама (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1235046/"
+    },
+    {
+      "film_name": "Фёдор Гамп (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1242645/"
+    },
+    {
+      "film_name": "Русские горки (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1100402/"
+    },
+    {
+      "film_name": "Учителя (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1108687/"
+    },
+    {
+      "film_name": "Команда Че (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/655558/"
+    },
+    {
+      "film_name": "Гадалка (сериал, 2012 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/811839/"
+    },
+    {
+      "film_name": "Универ. Новая общага (сериал, 2011 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/630165/"
+    },
+    {
+      "film_name": "Москва. Три вокзала (сериал, 2011 – 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/540682/"
+    },
+    {
+      "film_name": "Воронины (сериал, 2009 – 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/479090/"
+    }
+  ]
+}

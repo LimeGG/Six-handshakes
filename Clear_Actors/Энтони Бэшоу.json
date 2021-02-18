@@ -1,0 +1,30 @@
+{
+  "actor_name": "Энтони Бэшоу",
+  "actor_href": "https://www.kinopoisk.ru/name/4320722/",
+  "films": [
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Русское краткое. Выпуск 2 (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1214053/"
+    },
+    {
+      "film_name": "Пустите детей (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/970914/"
+    },
+    {
+      "film_name": "Гроздья винограда (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/961724/"
+    },
+    {
+      "film_name": "Землетрясение (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/839961/"
+    },
+    {
+      "film_name": "Универ. Новая общага (сериал, 2011 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/630165/"
+    }
+  ]
+}

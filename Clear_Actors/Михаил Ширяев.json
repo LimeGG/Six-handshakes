@@ -1,0 +1,30 @@
+{
+  "actor_name": "Михаил Ширяев",
+  "actor_href": "https://www.kinopoisk.ru/name/5661594/",
+  "films": [
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Магомаев (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1209244/"
+    },
+    {
+      "film_name": "Заключение (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1224064/"
+    },
+    {
+      "film_name": "Завтра я тебя разлюблю (ТВ, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1199627/"
+    },
+    {
+      "film_name": "Типа кино (ТВ, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1272224/"
+    },
+    {
+      "film_name": "Военная разведка: Северный фронт (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/581286/"
+    }
+  ]
+}

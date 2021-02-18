@@ -1,0 +1,54 @@
+{
+  "actor_name": "Василий Копейкин",
+  "actor_href": "https://www.kinopoisk.ru/name/3918595/",
+  "films": [
+    {
+      "film_name": "МЫ (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1108401/"
+    },
+    {
+      "film_name": "Серебряные коньки (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1225587/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Водоворот (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1227993/"
+    },
+    {
+      "film_name": "Стажёры (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1201826/"
+    },
+    {
+      "film_name": "Горячая точка (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1235971/"
+    },
+    {
+      "film_name": "Моя чужая дочка (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1335543/"
+    },
+    {
+      "film_name": "Дылды (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1272366/"
+    },
+    {
+      "film_name": "Свадьбы и разводы (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1115447/"
+    },
+    {
+      "film_name": "Папа, сдохни (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049219/"
+    },
+    {
+      "film_name": "Вечный холод (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/892283/"
+    },
+    {
+      "film_name": "СашаТаня (сериал, 2013 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/630232/"
+    }
+  ]
+}

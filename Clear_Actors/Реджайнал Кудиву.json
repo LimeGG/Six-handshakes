@@ -1,0 +1,34 @@
+{
+  "actor_name": "Реджайнал Кудиву",
+  "actor_href": "https://www.kinopoisk.ru/name/2882115/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Вдова (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1177490/"
+    },
+    {
+      "film_name": "L'autre continent (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1089510/"
+    },
+    {
+      "film_name": "Джек Райан (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008708/"
+    },
+    {
+      "film_name": "Валериан и город тысячи планет (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/689960/"
+    },
+    {
+      "film_name": "Марсель (сериал, 2016 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/891828/"
+    },
+    {
+      "film_name": "Перевозчик: Наследие (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/764608/"
+    }
+  ]
+}

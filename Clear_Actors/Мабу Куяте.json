@@ -1,0 +1,42 @@
+{
+  "actor_name": "Мабу Куяте",
+  "actor_href": "https://www.kinopoisk.ru/name/226568/",
+  "films": [
+    {
+      "film_name": "Tides",
+      "film_href": "https:/www.kinopoisk.ru/film/1169879/"
+    },
+    {
+      "film_name": "Back Up! (ТВ, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1437164/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Тур де Франс (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/944222/"
+    },
+    {
+      "film_name": "*Me There (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/877366/"
+    },
+    {
+      "film_name": "Туссен Лувертюр (мини-сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/630107/"
+    },
+    {
+      "film_name": "Спираль (сериал, 2005 – 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/579634/"
+    },
+    {
+      "film_name": "Я, Цезарь (2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/14338/"
+    },
+    {
+      "film_name": "Écoute, Nicolas... (ТВ, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/330029/"
+    }
+  ]
+}

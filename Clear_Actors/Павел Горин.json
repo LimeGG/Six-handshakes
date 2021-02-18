@@ -1,0 +1,30 @@
+{
+  "actor_name": "Павел Горин",
+  "actor_href": "https://www.kinopoisk.ru/name/2383920/",
+  "films": [
+    {
+      "film_name": "Сентенция (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309163/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Китобой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309166/"
+    },
+    {
+      "film_name": "Конная полиция (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1192379/"
+    },
+    {
+      "film_name": "Холодная война: Прерванный полёт Гарри Пауэрса (ТВ, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/474480/"
+    },
+    {
+      "film_name": "Короли игры (сериал, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/405457/"
+    }
+  ]
+}

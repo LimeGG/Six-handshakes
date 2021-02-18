@@ -1,0 +1,22 @@
+{
+  "actor_name": "Максим Сергеев",
+  "actor_href": "https://www.kinopoisk.ru/name/2243435/",
+  "films": [
+    {
+      "film_name": "Гоголь (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1232164/"
+    },
+    {
+      "film_name": "Десант есть десант (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/521411/"
+    },
+    {
+      "film_name": "Дело чести (сериал, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/401769/"
+    },
+    {
+      "film_name": "Морские дьяволы (сериал, 2005 – 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/280918/"
+    }
+  ]
+}

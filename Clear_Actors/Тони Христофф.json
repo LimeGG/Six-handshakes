@@ -1,0 +1,38 @@
+{
+  "actor_name": "Тони Христофф",
+  "actor_href": "https://www.kinopoisk.ru/name/1804621/",
+  "films": [
+    {
+      "film_name": "Qu'un sang impur... (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1217047/"
+    },
+    {
+      "film_name": "Семейный бизнес (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1271973/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Тур де Шанс (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/757389/"
+    },
+    {
+      "film_name": "Это правда, если я вру 3 (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/575245/"
+    },
+    {
+      "film_name": "Сутенер (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/491850/"
+    },
+    {
+      "film_name": "Налёт (сериал, 2009 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/497678/"
+    },
+    {
+      "film_name": "Офисное пространство (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/404464/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "actor_name": "Анна Назарова",
+  "actor_href": "https://www.kinopoisk.ru/name/3427174/",
+  "films": [
+    {
+      "film_name": "Спутник (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1162604/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Розыгрыш (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1161822/"
+    },
+    {
+      "film_name": "Неуловимые: Джекпот (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/994644/"
+    },
+    {
+      "film_name": "Захват (сериал, 2015 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/814699/"
+    },
+    {
+      "film_name": "Страна чудес (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/842713/"
+    },
+    {
+      "film_name": "Мирт обыкновенный (мини-сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/947025/"
+    },
+    {
+      "film_name": "Привычка расставаться (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/710276/"
+    },
+    {
+      "film_name": "Пыльная работа (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/584709/"
+    }
+  ]
+}

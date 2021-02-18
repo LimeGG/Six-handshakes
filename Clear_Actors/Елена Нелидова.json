@@ -1,0 +1,30 @@
+{
+  "actor_name": "Елена Нелидова",
+  "actor_href": "https://www.kinopoisk.ru/name/1509685/",
+  "films": [
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Спящие 2 (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1114854/"
+    },
+    {
+      "film_name": "Лёд (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/900052/"
+    },
+    {
+      "film_name": "Притяжение (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/840250/"
+    },
+    {
+      "film_name": "Молодогвардейцев 32 (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1097441/"
+    },
+    {
+      "film_name": "Воин (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/843175/"
+    }
+  ]
+}

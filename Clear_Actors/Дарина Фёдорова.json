@@ -1,0 +1,46 @@
+{
+  "actor_name": "Дарина Фёдорова",
+  "actor_href": "https://www.kinopoisk.ru/name/3725504/",
+  "films": [
+    {
+      "film_name": "Кензели (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1297266/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Скорая помощь 2 (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1345697/"
+    },
+    {
+      "film_name": "Тайный город 3 (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/843375/"
+    },
+    {
+      "film_name": "Каинова печать (мини-сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1115559/"
+    },
+    {
+      "film_name": "Теория вероятности (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/898455/"
+    },
+    {
+      "film_name": "Паутина 8 (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/880657/"
+    },
+    {
+      "film_name": "Пасечник 2 (сериал, 2015 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/842832/"
+    },
+    {
+      "film_name": "Академия (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/839900/"
+    },
+    {
+      "film_name": "Мент в законе 9 (сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/916855/"
+    }
+  ]
+}

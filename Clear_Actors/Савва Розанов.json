@@ -1,0 +1,30 @@
+{
+  "actor_name": "Савва Розанов",
+  "actor_href": "https://www.kinopoisk.ru/name/3626401/",
+  "films": [
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Горизонт (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1311547/"
+    },
+    {
+      "film_name": "Где бы ты ни был (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1405702/"
+    },
+    {
+      "film_name": "Прощание (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1272451/"
+    },
+    {
+      "film_name": "Ваш репетитор (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/909698/"
+    },
+    {
+      "film_name": "Тоня плачет на мосту влюбленных (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/838522/"
+    }
+  ]
+}

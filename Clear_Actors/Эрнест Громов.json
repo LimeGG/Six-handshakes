@@ -1,0 +1,38 @@
+{
+  "actor_name": "Эрнест Громов",
+  "actor_href": "https://www.kinopoisk.ru/name/3119156/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "With Friends Like These (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1068985/"
+    },
+    {
+      "film_name": "Valerie (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1093029/"
+    },
+    {
+      "film_name": "Революция: Новое искусство для нового мира (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1016043/"
+    },
+    {
+      "film_name": "Моему отцу, с любовью (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/940765/"
+    },
+    {
+      "film_name": "Хофф в записи (сериал, 2015 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/891839/"
+    },
+    {
+      "film_name": "Ortega and His Enemies (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/790490/"
+    },
+    {
+      "film_name": "Инспектор Клот (сериал, 2012 – 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/667515/"
+    }
+  ]
+}

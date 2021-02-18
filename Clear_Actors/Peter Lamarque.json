@@ -1,0 +1,50 @@
+{
+  "actor_name": "Peter Lamarque",
+  "actor_href": "https://www.kinopoisk.ru/name/3540270/",
+  "films": [
+    {
+      "film_name": "Man in Wood",
+      "film_href": "https:/www.kinopoisk.ru/film/696695/"
+    },
+    {
+      "film_name": "The Red Scare",
+      "film_href": "https:/www.kinopoisk.ru/film/826473/"
+    },
+    {
+      "film_name": "She (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1424460/"
+    },
+    {
+      "film_name": "Sans Un Bruit (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1425040/"
+    },
+    {
+      "film_name": "Undressed (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1268438/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Reapers - First Strike (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1248981/"
+    },
+    {
+      "film_name": "Vanilla (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1170385/"
+    },
+    {
+      "film_name": "Tamara Vol. 2 (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1099951/"
+    },
+    {
+      "film_name": "Валериан и город тысячи планет (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/689960/"
+    },
+    {
+      "film_name": "Redemption (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1159628/"
+    }
+  ]
+}

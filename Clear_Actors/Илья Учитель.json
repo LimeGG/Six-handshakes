@@ -1,0 +1,30 @@
+{
+  "actor_name": "Илья Учитель",
+  "actor_href": "https://www.kinopoisk.ru/name/2781359/",
+  "films": [
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Огни большой деревни (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/929650/"
+    },
+    {
+      "film_name": "Пересадка (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/842254/"
+    },
+    {
+      "film_name": "Стриптиз (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/749584/"
+    },
+    {
+      "film_name": "Трубач и кукла (видео, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/672164/"
+    },
+    {
+      "film_name": "Дирижабль (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/672159/"
+    }
+  ]
+}

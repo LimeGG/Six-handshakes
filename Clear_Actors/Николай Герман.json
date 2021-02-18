@@ -1,0 +1,38 @@
+{
+  "actor_name": "Николай Герман",
+  "actor_href": "https://www.kinopoisk.ru/name/3287467/",
+  "films": [
+    {
+      "film_name": "Вратарь Галактики (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/841471/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Игра с огнём (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1105400/"
+    },
+    {
+      "film_name": "Один против всех (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/963369/"
+    },
+    {
+      "film_name": "Моя любимая свекровь (мини-сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/994665/"
+    },
+    {
+      "film_name": "Улыбка пересмешника (сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/804757/"
+    },
+    {
+      "film_name": "Любовь на миллион (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/777348/"
+    },
+    {
+      "film_name": "Охотники за караванами (мини-сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/571268/"
+    }
+  ]
+}

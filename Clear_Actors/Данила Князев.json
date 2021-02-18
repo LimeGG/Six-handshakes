@@ -1,0 +1,22 @@
+{
+  "actor_name": "Данила Князев",
+  "actor_href": "https://www.kinopoisk.ru/name/6290147/",
+  "films": [
+    {
+      "film_name": "Крюк (сериал, 2021 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1402928/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Туристическая полиция (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1234877/"
+    },
+    {
+      "film_name": "Вне игры (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1115041/"
+    }
+  ]
+}

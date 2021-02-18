@@ -1,0 +1,38 @@
+{
+  "actor_name": "Луиз Паркер",
+  "actor_href": "https://www.kinopoisk.ru/name/3717090/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Вернись домой (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1115705/"
+    },
+    {
+      "film_name": "Затерянный город Z (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/432794/"
+    },
+    {
+      "film_name": "Моя мать и другие чудаки (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1009371/"
+    },
+    {
+      "film_name": "Детка, детка, детка (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/845874/"
+    },
+    {
+      "film_name": "Хроники Франкенштейна (сериал, 2015 – 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/891627/"
+    },
+    {
+      "film_name": "Дракула (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/395057/"
+    },
+    {
+      "film_name": "Зеркалка (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/781170/"
+    }
+  ]
+}

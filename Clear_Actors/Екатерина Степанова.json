@@ -1,0 +1,22 @@
+{
+  "actor_name": "Екатерина Степанова",
+  "actor_href": "https://www.kinopoisk.ru/name/5823591/",
+  "films": [
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Трудные подростки (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1311936/"
+    },
+    {
+      "film_name": "Дылды (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1272366/"
+    },
+    {
+      "film_name": "Ивановы-Ивановы (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044102/"
+    }
+  ]
+}

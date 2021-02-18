@@ -1,0 +1,22 @@
+{
+  "actor_name": "Анастасия Тодореску",
+  "actor_href": "https://www.kinopoisk.ru/name/5383899/",
+  "films": [
+    {
+      "film_name": "Илия Муромец (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/981108/"
+    },
+    {
+      "film_name": "Пассажиры (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1431131/"
+    },
+    {
+      "film_name": "Игра на выживание (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1395366/"
+    },
+    {
+      "film_name": "Герой (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115467/"
+    }
+  ]
+}

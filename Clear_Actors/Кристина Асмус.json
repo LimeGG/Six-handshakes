@@ -1,0 +1,110 @@
+{
+  "actor_name": "Кристина Асмус",
+  "actor_href": "https://www.kinopoisk.ru/name/1959253/",
+  "films": [
+    {
+      "film_name": "Джон (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1395461/"
+    },
+    {
+      "film_name": "Декабрь (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234806/"
+    },
+    {
+      "film_name": "Булки (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1356366/"
+    },
+    {
+      "film_name": "Escape (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1398907/"
+    },
+    {
+      "film_name": "Китобой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309166/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Беезумие (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1369259/"
+    },
+    {
+      "film_name": "Герой по вызову (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1174373/"
+    },
+    {
+      "film_name": "Входя в дом, оглянись (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1309169/"
+    },
+    {
+      "film_name": "Текст (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234848/"
+    },
+    {
+      "film_name": "Тайна кумира (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/851876/"
+    },
+    {
+      "film_name": "Чемпионы: Быстрее. Выше. Сильнее (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/840818/"
+    },
+    {
+      "film_name": "Психи (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/921497/"
+    },
+    {
+      "film_name": "А зори здесь тихие… (мини-сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/1334199/"
+    },
+    {
+      "film_name": "А зори здесь тихие... (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840754/"
+    },
+    {
+      "film_name": "Легок на помине (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/761690/"
+    },
+    {
+      "film_name": "Что творят мужчины! (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/715464/"
+    },
+    {
+      "film_name": "Настоящая любовь (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/678558/"
+    },
+    {
+      "film_name": "Синдром дракона (сериал, 2012 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/585316/"
+    },
+    {
+      "film_name": "Zолушка (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/647291/"
+    },
+    {
+      "film_name": "Дублёр (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/679550/"
+    },
+    {
+      "film_name": "Иван Царевич и Серый Волк (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/406175/"
+    },
+    {
+      "film_name": "Нереальная история (сериал, 2011 – 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/623009/"
+    },
+    {
+      "film_name": "Алиби на двоих (сериал, 2011 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/507103/"
+    },
+    {
+      "film_name": "Ёлки (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/493768/"
+    },
+    {
+      "film_name": "Интерны (сериал, 2010 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/501998/"
+    }
+  ]
+}

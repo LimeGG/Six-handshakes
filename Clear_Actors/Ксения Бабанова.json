@@ -1,0 +1,38 @@
+{
+  "actor_name": "Ксения Бабанова",
+  "actor_href": "https://www.kinopoisk.ru/name/4046291/",
+  "films": [
+    {
+      "film_name": "Мажор. Фильм (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1445143/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Шерлок в России (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1272376/"
+    },
+    {
+      "film_name": "Триггер (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1100777/"
+    },
+    {
+      "film_name": "День до (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/838054/"
+    },
+    {
+      "film_name": "Мажор 2 (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/957773/"
+    },
+    {
+      "film_name": "Клим (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/838051/"
+    },
+    {
+      "film_name": "Метод (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/838050/"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "actor_name": "Анна Уколова",
+  "actor_href": "https://www.kinopoisk.ru/name/703440/",
+  "films": [
+    {
+      "film_name": "Клиника счастья (сериал, 2021 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1412155/"
+    },
+    {
+      "film_name": "Бешенство (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1346359/"
+    },
+    {
+      "film_name": "Белый снег (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1345722/"
+    },
+    {
+      "film_name": "БУМЕРанг (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115468/"
+    },
+    {
+      "film_name": "Родные (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1274271/"
+    },
+    {
+      "film_name": "Зоя (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1289029/"
+    },
+    {
+      "film_name": "Парадоксы (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1399299/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Земля Эльзы (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1405665/"
+    },
+    {
+      "film_name": "(Не)случайные  истории (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1395806/"
+    },
+    {
+      "film_name": "Корни (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1278738/"
+    },
+    {
+      "film_name": "Цыпленок жареный (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1040563/"
+    },
+    {
+      "film_name": "Портрет мамы (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1344487/"
+    },
+    {
+      "film_name": "Трудные подростки (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1311936/"
+    },
+    {
+      "film_name": "Входя в дом, оглянись (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1309169/"
+    },
+    {
+      "film_name": "Тварь (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1138880/"
+    },
+    {
+      "film_name": "В Кейптаунском порту… (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/929513/"
+    },
+    {
+      "film_name": "Куда течет море (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1097416/"
+    },
+    {
+      "film_name": "Грецкий орешек (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/924347/"
+    },
+    {
+      "film_name": "Домашний арест (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044487/"
+    },
+    {
+      "film_name": "Ивановы-Ивановы (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044102/"
+    },
+    {
+      "film_name": "Жги! (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1002706/"
+    },
+    {
+      "film_name": "Везучий случай (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/999471/"
+    },
+    {
+      "film_name": "Отдай мою посадочную ногу (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1043909/"
+    },
+    {
+      "film_name": "Мама Лора (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008253/"
+    },
+    {
+      "film_name": "Просто концерт (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/977476/"
+    },
+    {
+      "film_name": "Обратная сторона Луны 2 (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/838052/"
+    },
+    {
+      "film_name": "Петербург. Только по любви (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/930797/"
+    },
+    {
+      "film_name": "Бородач (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/893849/"
+    },
+    {
+      "film_name": "Кира (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/915257/"
+    },
+    {
+      "film_name": "Московская борзая (сериал, 2015 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/843668/"
+    },
+    {
+      "film_name": "Новые русские 2 (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/927708/"
+    },
+    {
+      "film_name": "Чужая милая (мини-сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/891385/"
+    },
+    {
+      "film_name": "Мама по контракту (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/542383/"
+    },
+    {
+      "film_name": "Клинч (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840020/"
+    },
+    {
+      "film_name": "Настя (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/901085/"
+    },
+    {
+      "film_name": "Когда я вырасту (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/856945/"
+    },
+    {
+      "film_name": "Идеальная пара (ТВ, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/874997/"
+    },
+    {
+      "film_name": "Когда его совсем не ждешь (мини-сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/851928/"
+    },
+    {
+      "film_name": "Левиафан (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/705356/"
+    },
+    {
+      "film_name": "Инквизитор (сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/839686/"
+    },
+    {
+      "film_name": "Уйти, чтобы вернуться (сериал, 2014 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/839302/"
+    },
+    {
+      "film_name": "Обнимая небо (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/766178/"
+    },
+    {
+      "film_name": "Переводчик (мини-сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/738452/"
+    },
+    {
+      "film_name": "Крик совы (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/803896/"
+    },
+    {
+      "film_name": "Семейные обстоятельства (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/807425/"
+    },
+    {
+      "film_name": "Географ глобус пропил (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/653696/"
+    },
+    {
+      "film_name": "А у нас во дворе (сериал, 2012 – 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/923154/"
+    },
+    {
+      "film_name": "Идеальный брак (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/693938/"
+    },
+    {
+      "film_name": "Четверг, 12-е (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/721118/"
+    },
+    {
+      "film_name": "Настоящая любовь (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/678558/"
+    },
+    {
+      "film_name": "Петрович (ТВ, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/689088/"
+    },
+    {
+      "film_name": "Жить (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/645910/"
+    },
+    {
+      "film_name": "Воробушек (ТВ, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/660987/"
+    },
+    {
+      "film_name": "Фурцева. Легенда о Екатерине (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/571267/"
+    },
+    {
+      "film_name": "Черные волки (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/579843/"
+    },
+    {
+      "film_name": "Телохранитель 3 (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/474994/"
+    },
+    {
+      "film_name": "Последняя встреча (сериал, 2010 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/464961/"
+    },
+    {
+      "film_name": "На крючке! (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/468169/"
+    },
+    {
+      "film_name": "Когда зацветёт багульник (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/565756/"
+    },
+    {
+      "film_name": "Я тебя никому не отдам (мини-сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/573845/"
+    },
+    {
+      "film_name": "Тихий омут (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/570123/"
+    },
+    {
+      "film_name": "Край (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/460432/"
+    },
+    {
+      "film_name": "Александра (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/505750/"
+    },
+    {
+      "film_name": "Богатая Маша (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/502953/"
+    },
+    {
+      "film_name": "Детективное агентство Иван да Марья (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/471492/"
+    },
+    {
+      "film_name": "Анжелика (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/471569/"
+    },
+    {
+      "film_name": "Черчилль (сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/493983/"
+    },
+    {
+      "film_name": "Чудо (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/460572/"
+    },
+    {
+      "film_name": "Миннесота (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/430474/"
+    },
+    {
+      "film_name": "Колдовская любовь 2 (сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/496801/"
+    },
+    {
+      "film_name": "Приказано уничтожить! Операция: «Китайская шкатулка» (мини-сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/460496/"
+    },
+    {
+      "film_name": "Малахольная (ТВ, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/455514/"
+    },
+    {
+      "film_name": "Суд (сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/455520/"
+    },
+    {
+      "film_name": "Разлучница (сериал, 2009 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/447708/"
+    },
+    {
+      "film_name": "Колдовская любовь (сериал, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/416325/"
+    },
+    {
+      "film_name": "Братья Карамазовы (сериал, 2008 – 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/322063/"
+    },
+    {
+      "film_name": "Свадьба (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/420187/"
+    },
+    {
+      "film_name": "Мымра (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/279230/"
+    },
+    {
+      "film_name": "Шутка (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/420159/"
+    },
+    {
+      "film_name": "Ярик (ТВ, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/420319/"
+    },
+    {
+      "film_name": "Девять жизней Нестора Махно (сериал, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/series/373388/"
+    },
+    {
+      "film_name": "Ваша честь (сериал, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/series/279775/"
+    },
+    {
+      "film_name": "Парк советского периода (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/271515/"
+    },
+    {
+      "film_name": "Живой (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/256503/"
+    },
+    {
+      "film_name": "Охота на пиранью (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/161141/"
+    },
+    {
+      "film_name": "Большая любовь (2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/252012/"
+    },
+    {
+      "film_name": "Херувим (сериал, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/series/259242/"
+    },
+    {
+      "film_name": "Подкидной (мини-сериал, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/series/468357/"
+    },
+    {
+      "film_name": "Дети Ванюхина (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/89682/"
+    },
+    {
+      "film_name": "Точка (2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/252125/"
+    },
+    {
+      "film_name": "Русское (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/254806/"
+    },
+    {
+      "film_name": "Красная капелла (сериал, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/81444/"
+    },
+    {
+      "film_name": "Папа (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/80740/"
+    },
+    {
+      "film_name": "Бальзаковский возраст, или Все мужики сво... (сериал, 2004 – 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/94919/"
+    },
+    {
+      "film_name": "Женщины в игре без правил (мини-сериал, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/95374/"
+    },
+    {
+      "film_name": "Прощание в июне (2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/252186/"
+    },
+    {
+      "film_name": "Вокзал (сериал, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/231144/"
+    },
+    {
+      "film_name": "Лучший город Земли (сериал, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/103074/"
+    },
+    {
+      "film_name": "Порода (2002)",
+      "film_href": "https:/www.kinopoisk.ru/film/426173/"
+    },
+    {
+      "film_name": "Закон (сериал, 2002)",
+      "film_href": "https:/www.kinopoisk.ru/series/374721/"
+    },
+    {
+      "film_name": "Каменская 2 (сериал, 2002)",
+      "film_href": "https:/www.kinopoisk.ru/series/94334/"
+    },
+    {
+      "film_name": "Все, что ты любишь (2001)",
+      "film_href": "https:/www.kinopoisk.ru/film/161169/"
+    }
+  ]
+}

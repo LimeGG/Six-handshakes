@@ -1,0 +1,50 @@
+{
+  "film_name": "Выключатель",
+  "film_href": "https://www.kinopoisk.ru/film/892291/",
+  "actors": [
+    {
+      "actor_name": "Сергей Дахин",
+      "actor_href": "https://www.kinopoisk.ru//name/3689842/"
+    },
+    {
+      "actor_name": "Кирилл Пирогов",
+      "actor_href": "https://www.kinopoisk.ru//name/245775/"
+    },
+    {
+      "actor_name": "Александр Петров",
+      "actor_href": "https://www.kinopoisk.ru//name/2286874/"
+    },
+    {
+      "actor_name": "Владас Багдонас",
+      "actor_href": "https://www.kinopoisk.ru//name/40166/"
+    },
+    {
+      "actor_name": "Диана Шалашная",
+      "actor_href": "https://www.kinopoisk.ru//name/3628203/"
+    },
+    {
+      "actor_name": "Мария Безрук",
+      "actor_href": "https://www.kinopoisk.ru//name/4066341/"
+    },
+    {
+      "actor_name": "Максим Курочкин",
+      "actor_href": "https://www.kinopoisk.ru//name/224742/"
+    },
+    {
+      "actor_name": "Петр Духовской",
+      "actor_href": "https://www.kinopoisk.ru//name/245715/"
+    },
+    {
+      "actor_name": "Алексей Романов",
+      "actor_href": "https://www.kinopoisk.ru//name/3917219/"
+    },
+    {
+      "actor_name": "Сергей Тырин",
+      "actor_href": "https://www.kinopoisk.ru//name/2336031/"
+    },
+    {
+      "actor_name": "Сергей Дахин",
+      "actor_href": "https://www.kinopoisk.ru//name/3689842/"
+    }
+  ]
+}

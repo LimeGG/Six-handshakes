@@ -1,0 +1,22 @@
+{
+  "actor_name": "Трэвис Кершен",
+  "actor_href": "https://www.kinopoisk.ru/name/550153/",
+  "films": [
+    {
+      "film_name": "The Red Scare",
+      "film_href": "https:/www.kinopoisk.ru/film/826473/"
+    },
+    {
+      "film_name": "Crime & Pwnage (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/948888/"
+    },
+    {
+      "film_name": "Will (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/948878/"
+    },
+    {
+      "film_name": "Ярость (2005)",
+      "film_href": "https:/www.kinopoisk.ru/film/61184/"
+    }
+  ]
+}

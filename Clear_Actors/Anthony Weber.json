@@ -1,0 +1,22 @@
+{
+  "actor_name": "Anthony Weber",
+  "actor_href": "https://www.kinopoisk.ru/name/4669871/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Je suis «Mademoiselle» (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1280813/"
+    },
+    {
+      "film_name": "Paranormal Factory (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1280958/"
+    },
+    {
+      "film_name": "Égo-Système (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1105211/"
+    }
+  ]
+}

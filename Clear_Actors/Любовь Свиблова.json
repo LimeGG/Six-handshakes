@@ -1,0 +1,22 @@
+{
+  "actor_name": "Любовь Свиблова",
+  "actor_href": "https://www.kinopoisk.ru/name/5907639/",
+  "films": [
+    {
+      "film_name": "Сентенция (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309163/"
+    },
+    {
+      "film_name": "Цой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1285413/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Китобой (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1309166/"
+    }
+  ]
+}

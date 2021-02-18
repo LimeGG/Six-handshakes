@@ -1,0 +1,30 @@
+{
+  "actor_name": "Александр Дмитриев",
+  "actor_href": "https://www.kinopoisk.ru/name/3372975/",
+  "films": [
+    {
+      "film_name": "Проба (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/991567/"
+    },
+    {
+      "film_name": "Настоящее будущее (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1388690/"
+    },
+    {
+      "film_name": "Вишневый сад (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1301757/"
+    },
+    {
+      "film_name": "Крымский мост. Сделано с любовью! (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1171910/"
+    },
+    {
+      "film_name": "Барабаны в ночи (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1112643/"
+    },
+    {
+      "film_name": "Студия 17 (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/569824/"
+    }
+  ]
+}

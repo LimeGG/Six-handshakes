@@ -1,0 +1,22 @@
+{
+  "actor_name": "Евгений Кутянин",
+  "actor_href": "https://www.kinopoisk.ru/name/4303543/",
+  "films": [
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "От ненависти до любви (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1112260/"
+    },
+    {
+      "film_name": "Прорубь (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/957794/"
+    },
+    {
+      "film_name": "Мама Лора (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008253/"
+    }
+  ]
+}

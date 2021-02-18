@@ -1,0 +1,58 @@
+{
+  "actor_name": "Анна Криппа",
+  "actor_href": "https://www.kinopoisk.ru/name/1465264/",
+  "films": [
+    {
+      "film_name": "Mary Celeste (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1442323/"
+    },
+    {
+      "film_name": "The Tool (ТВ, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1370080/"
+    },
+    {
+      "film_name": "В тихом омуте (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1200106/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "МакМафия (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1045197/"
+    },
+    {
+      "film_name": "Borya (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1084166/"
+    },
+    {
+      "film_name": "Короткие встречи (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1007735/"
+    },
+    {
+      "film_name": "Focal Point (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/853059/"
+    },
+    {
+      "film_name": "Best Little Whorehouse in Rochdale (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/594242/"
+    },
+    {
+      "film_name": "Похищенные (ТВ, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/572266/"
+    },
+    {
+      "film_name": "The Girls Who Came to Stay (ТВ, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/film/351770/"
+    },
+    {
+      "film_name": "Врачи (сериал, 2000 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/398931/"
+    },
+    {
+      "film_name": "Холби Сити (сериал, 1999 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/401642/"
+    }
+  ]
+}

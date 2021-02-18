@@ -1,0 +1,30 @@
+{
+  "actor_name": "Наталия Кутанина",
+  "actor_href": "https://www.kinopoisk.ru/name/5838600/",
+  "films": [
+    {
+      "film_name": "МЫ (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1108401/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Дылда (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1221042/"
+    },
+    {
+      "film_name": "Трезвый водитель (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045580/"
+    },
+    {
+      "film_name": "Как Ася любила Васю, и что из этого вышло (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1451329/"
+    },
+    {
+      "film_name": "Клиника усыновления (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1005069/"
+    }
+  ]
+}

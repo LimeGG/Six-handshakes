@@ -1,0 +1,22 @@
+{
+  "actor_name": "Alexandre Majetniak",
+  "actor_href": "https://www.kinopoisk.ru/name/4944126/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Pitch (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1260145/"
+    },
+    {
+      "film_name": "Amare Delirium (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1384886/"
+    },
+    {
+      "film_name": "Lebowitz contre Lebowitz (сериал, 2016 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/893052/"
+    }
+  ]
+}

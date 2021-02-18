@@ -1,0 +1,58 @@
+{
+  "actor_name": "Максим Полинский",
+  "actor_href": "https://www.kinopoisk.ru/name/2424626/",
+  "films": [
+    {
+      "film_name": "Ёлки Последние (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1181562/"
+    },
+    {
+      "film_name": "Килиманджара (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/993589/"
+    },
+    {
+      "film_name": "Мажор 2 (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/957773/"
+    },
+    {
+      "film_name": "Метод (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/838050/"
+    },
+    {
+      "film_name": "Наследники (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840253/"
+    },
+    {
+      "film_name": "Бесы (мини-сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/718242/"
+    },
+    {
+      "film_name": "Кухня в Париже (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/795847/"
+    },
+    {
+      "film_name": "В спорте только девушки (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/716877/"
+    },
+    {
+      "film_name": "Большая ржака (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/670146/"
+    },
+    {
+      "film_name": "Важняк (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/586623/"
+    },
+    {
+      "film_name": "Достоевский (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/487246/"
+    },
+    {
+      "film_name": "Мелодия любви (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/574633/"
+    },
+    {
+      "film_name": "Поп (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/427887/"
+    }
+  ]
+}

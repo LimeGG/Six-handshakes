@@ -1,0 +1,30 @@
+{
+  "actor_name": "Нана Илоян",
+  "actor_href": "https://www.kinopoisk.ru/name/5496494/",
+  "films": [
+    {
+      "film_name": "Декабрь (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234806/"
+    },
+    {
+      "film_name": "Медиатор (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1395460/"
+    },
+    {
+      "film_name": "Хороший человек (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1287347/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Безопасные связи (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1366093/"
+    },
+    {
+      "film_name": "Текст (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234848/"
+    }
+  ]
+}

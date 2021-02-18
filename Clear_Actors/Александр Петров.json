@@ -1,0 +1,258 @@
+{
+  "actor_name": "Александр Петров",
+  "actor_href": "https://www.kinopoisk.ru/name/2286874/",
+  "films": [
+    {
+      "film_name": "Лавстори",
+      "film_href": "https:/www.kinopoisk.ru/film/984365/"
+    },
+    {
+      "film_name": "Man of God",
+      "film_href": "https:/www.kinopoisk.ru/film/1003448/"
+    },
+    {
+      "film_name": "Декабрь (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234806/"
+    },
+    {
+      "film_name": "Ангел (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/2034028/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Лёд 2 (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1227963/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Герой (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115467/"
+    },
+    {
+      "film_name": "Текст (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1234848/"
+    },
+    {
+      "film_name": "Вишневый сад (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1301757/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Зима (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1039764/"
+    },
+    {
+      "film_name": "Т-34 (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/930878/"
+    },
+    {
+      "film_name": "Полицейский с Рублевки. Новогодний беспредел (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1161783/"
+    },
+    {
+      "film_name": "Полицейский с Рублёвки. Мы тебя найдём (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1206892/"
+    },
+    {
+      "film_name": "Звоните ДиКаприо! (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/977755/"
+    },
+    {
+      "film_name": "Гоголь. Страшная месть (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1114917/"
+    },
+    {
+      "film_name": "#Зановородиться (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1117965/"
+    },
+    {
+      "film_name": "Полицейский с Рублёвки. Снова дома (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1048335/"
+    },
+    {
+      "film_name": "Гоголь. Вий (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1100779/"
+    },
+    {
+      "film_name": "Гоголь (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1232164/"
+    },
+    {
+      "film_name": "Лёд (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/900052/"
+    },
+    {
+      "film_name": "Напарник (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/921501/"
+    },
+    {
+      "film_name": "Гоголь. Начало (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/945391/"
+    },
+    {
+      "film_name": "Полицейский с Рублёвки в Бескудниково (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044770/"
+    },
+    {
+      "film_name": "Притяжение (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/840250/"
+    },
+    {
+      "film_name": "Вы все меня бесите (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/968843/"
+    },
+    {
+      "film_name": "Затмение (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/843037/"
+    },
+    {
+      "film_name": "Последний хранитель Беловодья (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/882280/"
+    },
+    {
+      "film_name": "Подарок Веры (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/949641/"
+    },
+    {
+      "film_name": "Беловодье. Тайна затерянной страны (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/768062/"
+    },
+    {
+      "film_name": "День до (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/838054/"
+    },
+    {
+      "film_name": "Sпарта (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/927627/"
+    },
+    {
+      "film_name": "Мата Хари (сериал, 2016 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/843049/"
+    },
+    {
+      "film_name": "Пьяная фирма (мини-сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/915992/"
+    },
+    {
+      "film_name": "Волки и овцы: бе-е-е-зумное превращение (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/738950/"
+    },
+    {
+      "film_name": "Полицейский с Рублёвки (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/913033/"
+    },
+    {
+      "film_name": "Выключатель (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/892291/"
+    },
+    {
+      "film_name": "Неуловимые: Последний герой (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/893235/"
+    },
+    {
+      "film_name": "Метод (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/838050/"
+    },
+    {
+      "film_name": "Угонщик (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/911088/"
+    },
+    {
+      "film_name": "Фарца (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/838053/"
+    },
+    {
+      "film_name": "Счастье – это... (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/892778/"
+    },
+    {
+      "film_name": "Закон каменных джунглей (сериал, 2015 – 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/694406/"
+    },
+    {
+      "film_name": "Раскоп (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840670/"
+    },
+    {
+      "film_name": "Форт Росс: В поисках приключений (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/701760/"
+    },
+    {
+      "film_name": "Любовь в большом городе 3 (сериал, 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/839223/"
+    },
+    {
+      "film_name": "Холодильник (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/817879/"
+    },
+    {
+      "film_name": "Летние каникулы (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/568122/"
+    },
+    {
+      "film_name": "ЖЖ (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/713606/"
+    },
+    {
+      "film_name": "Обнимая небо (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/766178/"
+    },
+    {
+      "film_name": "Любовь в большом городе 3 (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/468136/"
+    },
+    {
+      "film_name": "Ёлки 3 (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/652659/"
+    },
+    {
+      "film_name": "Привычка расставаться (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/710276/"
+    },
+    {
+      "film_name": "Второе дыхание (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/702759/"
+    },
+    {
+      "film_name": "Без права на выбор (мини-сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/797053/"
+    },
+    {
+      "film_name": "Петрович (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/586314/"
+    },
+    {
+      "film_name": "Марьина роща (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/708268/"
+    },
+    {
+      "film_name": "Пока цветет папоротник (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/501965/"
+    },
+    {
+      "film_name": "Август. Восьмого (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/565158/"
+    },
+    {
+      "film_name": "Голоса (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/566495/"
+    }
+  ]
+}

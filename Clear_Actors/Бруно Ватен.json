@@ -1,0 +1,38 @@
+{
+  "actor_name": "Бруно Ватен",
+  "actor_href": "https://www.kinopoisk.ru/name/41607/",
+  "films": [
+    {
+      "film_name": "Маленькая страна (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1237235/"
+    },
+    {
+      "film_name": "Селфи (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1163592/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Мальчишник в Европе (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1066418/"
+    },
+    {
+      "film_name": "Потерянный рай (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/717311/"
+    },
+    {
+      "film_name": "Кровные узы (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/626109/"
+    },
+    {
+      "film_name": "Скачки (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/623795/"
+    },
+    {
+      "film_name": "Вместе – это слишком (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/491847/"
+    }
+  ]
+}

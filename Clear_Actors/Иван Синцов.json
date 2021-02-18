@@ -1,0 +1,34 @@
+{
+  "actor_name": "Иван Синцов",
+  "actor_href": "https://www.kinopoisk.ru/name/4754913/",
+  "films": [
+    {
+      "film_name": "Желтая кошка (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1395448/"
+    },
+    {
+      "film_name": "Текст. Реальность (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1374289/"
+    },
+    {
+      "film_name": "Томирис (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1127372/"
+    },
+    {
+      "film_name": "В плену у сакуры (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1209004/"
+    },
+    {
+      "film_name": "Бизнесмены (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1190148/"
+    },
+    {
+      "film_name": "Красный уровень (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1122149/"
+    },
+    {
+      "film_name": "По ту сторону стен (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1048811/"
+    }
+  ]
+}

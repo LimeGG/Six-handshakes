@@ -1,0 +1,42 @@
+{
+  "actor_name": "Анна Винская",
+  "actor_href": "https://www.kinopoisk.ru/name/6243247/",
+  "films": [
+    {
+      "film_name": "Перевал Дятлова",
+      "film_href": "https:/www.kinopoisk.ru/film/851868/"
+    },
+    {
+      "film_name": "СССР (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1040584/"
+    },
+    {
+      "film_name": "Идеальная семья (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1344495/"
+    },
+    {
+      "film_name": "Перевал Дятлова (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1108690/"
+    },
+    {
+      "film_name": "Миша портит всё (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1359033/"
+    },
+    {
+      "film_name": "Лёд 2 (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1227963/"
+    },
+    {
+      "film_name": "Сердце Пармы (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045585/"
+    },
+    {
+      "film_name": "Годунов (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1118176/"
+    },
+    {
+      "film_name": "Реальные пацаны (сериал, 2010 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/568082/"
+    }
+  ]
+}

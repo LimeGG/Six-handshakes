@@ -1,0 +1,42 @@
+{
+  "actor_name": "Мария Швачкина",
+  "actor_href": "https://www.kinopoisk.ru/name/4202217/",
+  "films": [
+    {
+      "film_name": "Спроси Марту (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1359038/"
+    },
+    {
+      "film_name": "Скажи ей (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1281999/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Последний министр (сериал, 2020 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1236796/"
+    },
+    {
+      "film_name": "Последствия (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1115005/"
+    },
+    {
+      "film_name": "Триггер (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1100777/"
+    },
+    {
+      "film_name": "Префект (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1209253/"
+    },
+    {
+      "film_name": "Везучий случай (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/999471/"
+    },
+    {
+      "film_name": "Лондонград. Знай наших (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/842408/"
+    }
+  ]
+}

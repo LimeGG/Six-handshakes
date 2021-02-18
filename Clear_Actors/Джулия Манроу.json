@@ -1,0 +1,26 @@
+{
+  "actor_name": "Джулия Манроу",
+  "actor_href": "https://www.kinopoisk.ru/name/1274126/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Cortisol (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/901468/"
+    },
+    {
+      "film_name": "Champagne, Intimacy, Alan (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/784660/"
+    },
+    {
+      "film_name": "Love Again (ТВ, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/297265/"
+    },
+    {
+      "film_name": "Ферма Эммердейл (сериал, 1972 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/330423/"
+    }
+  ]
+}

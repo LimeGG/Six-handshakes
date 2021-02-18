@@ -1,0 +1,62 @@
+{
+  "actor_name": "Иван Титяев",
+  "actor_href": "https://www.kinopoisk.ru/name/4718565/",
+  "films": [
+    {
+      "film_name": "МиниМакс (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/803186/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Моя любимая мишень (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1263237/"
+    },
+    {
+      "film_name": "Толя-робот (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1224066/"
+    },
+    {
+      "film_name": "Ланцет (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1046036/"
+    },
+    {
+      "film_name": "Жрица словесности (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1163866/"
+    },
+    {
+      "film_name": "Не чужие (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/933787/"
+    },
+    {
+      "film_name": "Скорая помощь (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1049183/"
+    },
+    {
+      "film_name": "Без меня (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049103/"
+    },
+    {
+      "film_name": "Лалай-Балалай (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045105/"
+    },
+    {
+      "film_name": "Z (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/1044345/"
+    },
+    {
+      "film_name": "Средство от разлуки (мини-сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/957251/"
+    },
+    {
+      "film_name": "Физрук (сериал, 2014 – 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/789914/"
+    },
+    {
+      "film_name": "Универ. Новая общага (сериал, 2011 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/630165/"
+    }
+  ]
+}

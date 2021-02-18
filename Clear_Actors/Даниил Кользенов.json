@@ -1,0 +1,26 @@
+{
+  "actor_name": "Даниил Кользенов",
+  "actor_href": "https://www.kinopoisk.ru/name/5700697/",
+  "films": [
+    {
+      "film_name": "Два берега (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1178380/"
+    },
+    {
+      "film_name": "Призрак (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1224113/"
+    },
+    {
+      "film_name": "Заповедный спецназ (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1281996/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Болевой порог (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/913060/"
+    }
+  ]
+}

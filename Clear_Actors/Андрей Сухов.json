@@ -1,0 +1,58 @@
+{
+  "actor_name": "Андрей Сухов",
+  "actor_href": "https://www.kinopoisk.ru/name/1172629/",
+  "films": [
+    {
+      "film_name": "Добрый человек из Сезуана (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1347319/"
+    },
+    {
+      "film_name": "Вишневый сад (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1301757/"
+    },
+    {
+      "film_name": "Второй убойный 2 (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/885346/"
+    },
+    {
+      "film_name": "Слуга государев (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/160983/"
+    },
+    {
+      "film_name": "Александровский сад (сериал, 2005)",
+      "film_href": "https:/www.kinopoisk.ru/series/409734/"
+    },
+    {
+      "film_name": "Ключи от бездны: Охота на призраков (мини-сериал, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/403382/"
+    },
+    {
+      "film_name": "Ключи от бездны: Операция «Голем» (сериал, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/403381/"
+    },
+    {
+      "film_name": "Даша Васильева 2. Любительница частного сыска: Эта горькая сладкая месть (ТВ, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/451131/"
+    },
+    {
+      "film_name": "Сага древних булгар: Сказание Ольги Святой (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/471861/"
+    },
+    {
+      "film_name": "Сага древних булгар: Лествица Владимира Красное Солнышко (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/472238/"
+    },
+    {
+      "film_name": "Каждый взойдет на Голгофу (сериал, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/471933/"
+    },
+    {
+      "film_name": "Чайка (1992)",
+      "film_href": "https:/www.kinopoisk.ru/film/839516/"
+    },
+    {
+      "film_name": "Ариэль (1992)",
+      "film_href": "https:/www.kinopoisk.ru/film/41016/"
+    }
+  ]
+}

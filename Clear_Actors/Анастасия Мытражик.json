@@ -1,0 +1,42 @@
+{
+  "actor_name": "Анастасия Мытражик",
+  "actor_href": "https://www.kinopoisk.ru/name/4025916/",
+  "films": [
+    {
+      "film_name": "Человек из Подольска (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1395841/"
+    },
+    {
+      "film_name": "Алекс Лютый (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1266998/"
+    },
+    {
+      "film_name": "Вишневый сад (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1301757/"
+    },
+    {
+      "film_name": "Её секрет (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1234880/"
+    },
+    {
+      "film_name": "Слабым здесь не место (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1047481/"
+    },
+    {
+      "film_name": "Огни большой деревни (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/929650/"
+    },
+    {
+      "film_name": "Неваляшка (мини-сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1002692/"
+    },
+    {
+      "film_name": "Взрослые дочери (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/910057/"
+    },
+    {
+      "film_name": "Молодая гвардия (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/880743/"
+    }
+  ]
+}

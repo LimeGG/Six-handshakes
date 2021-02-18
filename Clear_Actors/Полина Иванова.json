@@ -1,0 +1,42 @@
+{
+  "actor_name": "Полина Иванова",
+  "actor_href": "https://www.kinopoisk.ru/name/3596496/",
+  "films": [
+    {
+      "film_name": "Молоко (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046057/"
+    },
+    {
+      "film_name": "Пассажиры (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1431131/"
+    },
+    {
+      "film_name": "Игра на выживание (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1395366/"
+    },
+    {
+      "film_name": "Герой (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115467/"
+    },
+    {
+      "film_name": "Медное солнце (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/840071/"
+    },
+    {
+      "film_name": "Жизнь впереди (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1006733/"
+    },
+    {
+      "film_name": "Налет (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/984284/"
+    },
+    {
+      "film_name": "Одной левой (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/797709/"
+    },
+    {
+      "film_name": "Подарок с характером (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/771230/"
+    }
+  ]
+}

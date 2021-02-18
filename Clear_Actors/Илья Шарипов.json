@@ -1,0 +1,22 @@
+{
+  "actor_name": "Илья Шарипов",
+  "actor_href": "https://www.kinopoisk.ru/name/5344638/",
+  "films": [
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Жди меня (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1185919/"
+    },
+    {
+      "film_name": "Операция «Сатана» (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1195649/"
+    },
+    {
+      "film_name": "Вольная грамота (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008398/"
+    }
+  ]
+}

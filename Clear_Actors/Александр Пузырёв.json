@@ -1,0 +1,34 @@
+{
+  "actor_name": "Александр Пузырёв",
+  "actor_href": "https://www.kinopoisk.ru/name/4994429/",
+  "films": [
+    {
+      "film_name": "Майор Гром: Чумной Доктор (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1109271/"
+    },
+    {
+      "film_name": "Ангел (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/2034028/"
+    },
+    {
+      "film_name": "Псих (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1311065/"
+    },
+    {
+      "film_name": "Спутник (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1162604/"
+    },
+    {
+      "film_name": "Лёд 2 (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1227963/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Тёмная ночь (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1101338/"
+    }
+  ]
+}

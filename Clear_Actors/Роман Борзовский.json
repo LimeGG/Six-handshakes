@@ -1,0 +1,30 @@
+{
+  "actor_name": "Роман Борзовский",
+  "actor_href": "https://www.kinopoisk.ru/name/4564831/",
+  "films": [
+    {
+      "film_name": "БУМЕРанг (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115468/"
+    },
+    {
+      "film_name": "Вишневый сад (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1301757/"
+    },
+    {
+      "film_name": "Счастье – это… Часть 2 (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1209747/"
+    },
+    {
+      "film_name": "Разлучница (ТВ, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1186144/"
+    },
+    {
+      "film_name": "Одноклассницы: Новый поворот (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1008216/"
+    },
+    {
+      "film_name": "Одноклассницы (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/927771/"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "actor_name": "Алиса Доник",
+  "actor_href": "https://www.kinopoisk.ru/name/4649733/",
+  "films": [
+    {
+      "film_name": "Чернобыль (сериал, 2021 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1169262/"
+    },
+    {
+      "film_name": "Т-34 (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/930878/"
+    },
+    {
+      "film_name": "Русалка. Озеро мертвых (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1048578/"
+    },
+    {
+      "film_name": "Гоголь. Вий (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1100779/"
+    },
+    {
+      "film_name": "Гоголь. Начало (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/945391/"
+    },
+    {
+      "film_name": "Буба (сериал, 2014 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1037585/"
+    },
+    {
+      "film_name": "Ку! Кин-дза-дза (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/420070/"
+    },
+    {
+      "film_name": "Звёздные собаки: Белка и Стрелка (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/395691/"
+    },
+    {
+      "film_name": "Новые приключения Аленушки и Еремы (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/414930/"
+    },
+    {
+      "film_name": "Приключения Алёнушки и Ерёмы (2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/394065/"
+    }
+  ]
+}

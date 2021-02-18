@@ -1,0 +1,758 @@
+{
+  "actor_name": "Александра Курагина",
+  "actor_href": "https://www.kinopoisk.ru/name/2444078/",
+  "films": [
+    {
+      "film_name": "Дьявол в деталях (2021)",
+      "film_href": "https:/www.kinopoisk.ru/film/1290490/"
+    },
+    {
+      "film_name": "Все мои друзья мертвы (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/4308911/"
+    },
+    {
+      "film_name": "Выпускной (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1280354/"
+    },
+    {
+      "film_name": "Пара на праздники (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1245693/"
+    },
+    {
+      "film_name": "Дичь (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1313205/"
+    },
+    {
+      "film_name": "Хэллоуин Хьюби (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1290806/"
+    },
+    {
+      "film_name": "Пустошь тьмы и зла (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1259607/"
+    },
+    {
+      "film_name": "Спасатели Малибу: Новая волна (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1311853/"
+    },
+    {
+      "film_name": "Калейдоскоп поцелуев 2 (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1237316/"
+    },
+    {
+      "film_name": "Чувствуй ритм (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1291855/"
+    },
+    {
+      "film_name": "Поезд в Пусан 2: Полуостров (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1183571/"
+    },
+    {
+      "film_name": "Защищая Джейкоба (мини-сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/673871/"
+    },
+    {
+      "film_name": "Меня это не устраивает! (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1261983/"
+    },
+    {
+      "film_name": "Остров фантазий (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/462193/"
+    },
+    {
+      "film_name": "Лок и ключ (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/774797/"
+    },
+    {
+      "film_name": "ЭйДжэй и королева (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1197818/"
+    },
+    {
+      "film_name": "Плохие парни навсегда (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/472386/"
+    },
+    {
+      "film_name": "Настоящие боссы (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1099676/"
+    },
+    {
+      "film_name": "Мисс Плохое поведение (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1217987/"
+    },
+    {
+      "film_name": "Дедушка нелегкого поведения (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/998054/"
+    },
+    {
+      "film_name": "Эксперимент «За стеклом» (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1051402/"
+    },
+    {
+      "film_name": "Афера в Майами (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1142534/"
+    },
+    {
+      "film_name": "Подлинная история банды Келли (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1087387/"
+    },
+    {
+      "film_name": "Ведьмак (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1044004/"
+    },
+    {
+      "film_name": "Темные воды (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1228069/"
+    },
+    {
+      "film_name": "Игры с огнём (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1215558/"
+    },
+    {
+      "film_name": "Нотр-Дам (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1219490/"
+    },
+    {
+      "film_name": "Девушка в лабиринте (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1164809/"
+    },
+    {
+      "film_name": "Семейка Аддамс (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/505841/"
+    },
+    {
+      "film_name": "Zомбилэнд: Контрольный выстрел (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/489414/"
+    },
+    {
+      "film_name": "В тени Луны (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1127701/"
+    },
+    {
+      "film_name": "Невозможно поверить (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1169469/"
+    },
+    {
+      "film_name": "Аббатство Даунтон (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1033386/"
+    },
+    {
+      "film_name": "Оно 2 (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/686898/"
+    },
+    {
+      "film_name": "Куда ты пропала, Бернадетт? (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/702904/"
+    },
+    {
+      "film_name": "Искусство самообороны (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1074242/"
+    },
+    {
+      "film_name": "Человек-паук: Вдали от дома (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1008445/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Воровки (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1200994/"
+    },
+    {
+      "film_name": "Мое прекрасное лето с Софи (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1232409/"
+    },
+    {
+      "film_name": "Джон Уик 3 (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1009536/"
+    },
+    {
+      "film_name": "Мертвые не умирают (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1171953/"
+    },
+    {
+      "film_name": "Спасатели Малибу (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1200449/"
+    },
+    {
+      "film_name": "Спасатели Малибу (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1207972/"
+    },
+    {
+      "film_name": "Наше последнее лето (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1121016/"
+    },
+    {
+      "film_name": "Мы (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1122138/"
+    },
+    {
+      "film_name": "Любовь по расчету (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1052953/"
+    },
+    {
+      "film_name": "Танцуй сердцем (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1165249/"
+    },
+    {
+      "film_name": "Счастливого нового дня смерти (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1121425/"
+    },
+    {
+      "film_name": "Чего хотят мужчины (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1108581/"
+    },
+    {
+      "film_name": "Идеальный бойфренд (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1154641/"
+    },
+    {
+      "film_name": "Так сказал Чарли (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/572463/"
+    },
+    {
+      "film_name": "Отель Мумбаи: Противостояние (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/958519/"
+    },
+    {
+      "film_name": "Обитатели холмов (мини-сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/977741/"
+    },
+    {
+      "film_name": "Холмс & Ватсон (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/462450/"
+    },
+    {
+      "film_name": "Наркокурьер (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1142526/"
+    },
+    {
+      "film_name": "Пышка (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1048333/"
+    },
+    {
+      "film_name": "Человек-паук: Через вселенные (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/920265/"
+    },
+    {
+      "film_name": "Илон Маск: Настоящий железный человек (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1274284/"
+    },
+    {
+      "film_name": "Грязный Джон (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1140184/"
+    },
+    {
+      "film_name": "Робин Гуд: Начало (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/927495/"
+    },
+    {
+      "film_name": "Семья по-быстрому (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1108494/"
+    },
+    {
+      "film_name": "Помешанный на времени (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1048852/"
+    },
+    {
+      "film_name": "Элита (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1211317/"
+    },
+    {
+      "film_name": "Богемская рапсодия (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/568289/"
+    },
+    {
+      "film_name": "Девушка, которая застряла в паутине (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/955968/"
+    },
+    {
+      "film_name": "Маугли (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/680072/"
+    },
+    {
+      "film_name": "Ужастики 2: Беспокойный Хэллоуин (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/975287/"
+    },
+    {
+      "film_name": "Стертая личность (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046440/"
+    },
+    {
+      "film_name": "Элита (сериал, 2018 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1117735/"
+    },
+    {
+      "film_name": "Тетрадь дружбы Нацумэ (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1189623/"
+    },
+    {
+      "film_name": "Хэллфест (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/602865/"
+    },
+    {
+      "film_name": "Ничего хорошего в отеле «Эль Рояль» (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1047143/"
+    },
+    {
+      "film_name": "Нация убийц (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1011685/"
+    },
+    {
+      "film_name": "Хэллоуин (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/472369/"
+    },
+    {
+      "film_name": "Простая просьба (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1068627/"
+    },
+    {
+      "film_name": "Проклятие монахини (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/991225/"
+    },
+    {
+      "film_name": "Сьерра Берджесс — неудачница (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/789274/"
+    },
+    {
+      "film_name": "Операция «Финал» (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1043679/"
+    },
+    {
+      "film_name": "Вилли и крутые тачки (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1108921/"
+    },
+    {
+      "film_name": "Шпион, который меня кинул (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1044982/"
+    },
+    {
+      "film_name": "Поиск (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/970196/"
+    },
+    {
+      "film_name": "Точка отрыва (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1035521/"
+    },
+    {
+      "film_name": "Правда или действие (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045590/"
+    },
+    {
+      "film_name": "Пришельцы в доме (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1007469/"
+    },
+    {
+      "film_name": "Секса не будет!!! (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/719155/"
+    },
+    {
+      "film_name": "Привидение (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1047724/"
+    },
+    {
+      "film_name": "Поезд на Париж (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1046481/"
+    },
+    {
+      "film_name": "Тихоокеанский рубеж 2 (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/721154/"
+    },
+    {
+      "film_name": "Испытание огнем (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/805632/"
+    },
+    {
+      "film_name": "Титан (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/930555/"
+    },
+    {
+      "film_name": "Полночное солнце (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/924170/"
+    },
+    {
+      "film_name": "Идеальный голос 3 (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/916759/"
+    },
+    {
+      "film_name": "Призрачная нить (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/991628/"
+    },
+    {
+      "film_name": "Принц на Рождество (ТВ, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1100745/"
+    },
+    {
+      "film_name": "Чудо (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/722951/"
+    },
+    {
+      "film_name": "Отважные птенцы (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1171937/"
+    },
+    {
+      "film_name": "Леди Бёрд (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/958293/"
+    },
+    {
+      "film_name": "Основано на реальных событиях (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/992990/"
+    },
+    {
+      "film_name": "Зомбиллениум (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/958252/"
+    },
+    {
+      "film_name": "Счастливого дня смерти (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/1012421/"
+    },
+    {
+      "film_name": "Снеговик (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/572230/"
+    },
+    {
+      "film_name": "Клаустрофобия (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/946735/"
+    },
+    {
+      "film_name": "ЛЕГО Ниндзяго Фильм (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/777684/"
+    },
+    {
+      "film_name": "Я сражаюсь с великанами (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/924989/"
+    },
+    {
+      "film_name": "Наёмник (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/708386/"
+    },
+    {
+      "film_name": "Виктория и Абдул (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/989939/"
+    },
+    {
+      "film_name": "Оно (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/453397/"
+    },
+    {
+      "film_name": "Сделано в Америке (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/837552/"
+    },
+    {
+      "film_name": "Тёмная башня (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/641780/"
+    },
+    {
+      "film_name": "Малыш на драйве (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/902939/"
+    },
+    {
+      "film_name": "Роковое искушение (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/970873/"
+    },
+    {
+      "film_name": "Гадкий я 3 (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/820599/"
+    },
+    {
+      "film_name": "Проклятие Аннабель: Зарождение зла (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/947898/"
+    },
+    {
+      "film_name": "Спасатели Малибу (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/468940/"
+    },
+    {
+      "film_name": "Форсаж 8 (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/894027/"
+    },
+    {
+      "film_name": "Мумия (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/677638/"
+    },
+    {
+      "film_name": "Облачно, возможны осадки в виде фрикаделек (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1040420/"
+    },
+    {
+      "film_name": "Сплит (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/930534/"
+    },
+    {
+      "film_name": "Под покровом ночи (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/909898/"
+    },
+    {
+      "film_name": "Смотри по сторонам (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/918727/"
+    },
+    {
+      "film_name": "Небольшое привидение: Одна ночь в проклятом доме (видео, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/941094/"
+    },
+    {
+      "film_name": "Судная ночь 3 (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/843907/"
+    },
+    {
+      "film_name": "Свадебный угар (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/756092/"
+    },
+    {
+      "film_name": "Тайная жизнь домашних животных (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/743088/"
+    },
+    {
+      "film_name": "До встречи с тобой (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/807318/"
+    },
+    {
+      "film_name": "Белоснежка и Охотник 2 (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/680394/"
+    },
+    {
+      "film_name": "Я Луна (сериал, 2016 – 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/958554/"
+    },
+    {
+      "film_name": "Гений (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/557787/"
+    },
+    {
+      "film_name": "Сестры (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/833477/"
+    },
+    {
+      "film_name": "Здравствуй, папа, Новый год! (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/484428/"
+    },
+    {
+      "film_name": "Крампус (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/843104/"
+    },
+    {
+      "film_name": "Девушка из Дании (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/431148/"
+    },
+    {
+      "film_name": "Джем и голограммы (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/840285/"
+    },
+    {
+      "film_name": "Стив Джобс (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/634679/"
+    },
+    {
+      "film_name": "Монстервилль (ТВ, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/888900/"
+    },
+    {
+      "film_name": "Багровый пик (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/721153/"
+    },
+    {
+      "film_name": "Перевозчик: Наследие (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/764608/"
+    },
+    {
+      "film_name": "Всё могу (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/568258/"
+    },
+    {
+      "film_name": "Каникулы (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/484426/"
+    },
+    {
+      "film_name": "Миссия невыполнима: Племя изгоев (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/678549/"
+    },
+    {
+      "film_name": "Терминатор: Генезис (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/436225/"
+    },
+    {
+      "film_name": "Миньоны (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/694051/"
+    },
+    {
+      "film_name": "Идеальный голос 2 (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/758197/"
+    },
+    {
+      "film_name": "Вдали от обезумевшей толпы (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/764613/"
+    },
+    {
+      "film_name": "Упс… Ной уплыл! (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/823073/"
+    },
+    {
+      "film_name": "Пятьдесят оттенков серого (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/688832/"
+    },
+    {
+      "film_name": "Мир Юрского периода (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/594554/"
+    },
+    {
+      "film_name": "Призрак дома Бриар (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/863346/"
+    },
+    {
+      "film_name": "Особо опасна (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/568836/"
+    },
+    {
+      "film_name": "Номер 44 (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/736204/"
+    },
+    {
+      "film_name": "Модная штучка (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/841052/"
+    },
+    {
+      "film_name": "Воспоминания о будущем (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/682688/"
+    },
+    {
+      "film_name": "Реверс 666 (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/696327/"
+    },
+    {
+      "film_name": "Это, блин, рождественское чудо (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/464356/"
+    },
+    {
+      "film_name": "Дракула (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/395057/"
+    },
+    {
+      "film_name": "Семейка монстров (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/464379/"
+    },
+    {
+      "film_name": "Пчёлка Майя (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/799294/"
+    },
+    {
+      "film_name": "Геракл (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/461958/"
+    },
+    {
+      "film_name": "Трансформеры: Эпоха истребления (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/651857/"
+    },
+    {
+      "film_name": "Лондонские каникулы (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/582136/"
+    },
+    {
+      "film_name": "Ной (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/596001/"
+    },
+    {
+      "film_name": "Драконы Нью-Йорка (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/840642/"
+    },
+    {
+      "film_name": "Железный рыцарь 2 (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/683175/"
+    },
+    {
+      "film_name": "Джек Райан: Теория хаоса (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/462371/"
+    },
+    {
+      "film_name": "Волк с Уолл-стрит (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/462682/"
+    },
+    {
+      "film_name": "Филомена (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/710432/"
+    },
+    {
+      "film_name": "Телекинез (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/675631/"
+    },
+    {
+      "film_name": "Мы – Миллеры (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/582170/"
+    },
+    {
+      "film_name": "Кадры (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/666935/"
+    },
+    {
+      "film_name": "Прекрасные создания (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/489438/"
+    },
+    {
+      "film_name": "Агент под прикрытием (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/572299/"
+    },
+    {
+      "film_name": "Идеальный голос (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/596251/"
+    },
+    {
+      "film_name": "Хорошо быть тихоней (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/523248/"
+    },
+    {
+      "film_name": "Детородные (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/463500/"
+    },
+    {
+      "film_name": "Диктатор (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/518040/"
+    },
+    {
+      "film_name": "Чего ждать, когда ждешь ребенка (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/496944/"
+    },
+    {
+      "film_name": "Американский пирог: Все в сборе (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/506251/"
+    },
+    {
+      "film_name": "Сумерки. Сага. Рассвет: Часть 2 (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/527662/"
+    },
+    {
+      "film_name": "Бедная богатая девочка (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/503737/"
+    },
+    {
+      "film_name": "Черное зеркало (сериал, 2011 – 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/655800/"
+    },
+    {
+      "film_name": "Хранитель времени (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/462247/"
+    },
+    {
+      "film_name": "Неприкасаемые (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/568696/"
+    },
+    {
+      "film_name": "Танцевальная лихорадка (сериал, 2010 – 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/570142/"
+    },
+    {
+      "film_name": "Унесённые призраками (2001)",
+      "film_href": "https:/www.kinopoisk.ru/film/370/"
+    },
+    {
+      "film_name": "Домохозяйка (1992)",
+      "film_href": "https:/www.kinopoisk.ru/film/9206/"
+    },
+    {
+      "film_name": "Пятница 13-е – Часть 7: Новая кровь (1988)",
+      "film_href": "https:/www.kinopoisk.ru/film/18168/"
+    },
+    {
+      "film_name": "Пятница 13-е – Часть 3 (1982)",
+      "film_href": "https:/www.kinopoisk.ru/film/36222/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "actor_name": "Макс Скотч",
+  "actor_href": "https://www.kinopoisk.ru/name/4418110/",
+  "films": [
+    {
+      "film_name": "Агентство О.К.О. (сериал, 2019 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1206895/"
+    },
+    {
+      "film_name": "#Зановородиться (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1117965/"
+    },
+    {
+      "film_name": "Проклятие спящих (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/989089/"
+    },
+    {
+      "film_name": "Угонщик (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/911088/"
+    }
+  ]
+}

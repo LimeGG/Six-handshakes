@@ -1,0 +1,30 @@
+{
+  "actor_name": "Серик Бейсеу",
+  "actor_href": "https://www.kinopoisk.ru/name/3076088/",
+  "films": [
+    {
+      "film_name": "Настоящее будущее (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1388690/"
+    },
+    {
+      "film_name": "Я люблю Еву (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1412393/"
+    },
+    {
+      "film_name": "Игра на выживание (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1395366/"
+    },
+    {
+      "film_name": "Герой (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115467/"
+    },
+    {
+      "film_name": "Тайна печати дракона (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/840758/"
+    },
+    {
+      "film_name": "Салют-7 (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/893506/"
+    }
+  ]
+}

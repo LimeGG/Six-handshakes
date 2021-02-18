@@ -1,0 +1,50 @@
+{
+  "actor_name": "Александр Войтинский",
+  "actor_href": "https://www.kinopoisk.ru/name/1720845/",
+  "films": [
+    {
+      "film_name": "Identity I/O (сериал)",
+      "film_href": "https:/www.kinopoisk.ru/series/1291292/"
+    },
+    {
+      "film_name": "Into Deep Blue (сериал)",
+      "film_href": "https:/www.kinopoisk.ru/series/1291443/"
+    },
+    {
+      "film_name": "Falcon at Night (сериал)",
+      "film_href": "https:/www.kinopoisk.ru/series/1299436/"
+    },
+    {
+      "film_name": "Призрак 2 (2022)",
+      "film_href": "https:/www.kinopoisk.ru/film/1334851/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "КваZи (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045581/"
+    },
+    {
+      "film_name": "Дед Мороз. Битва Магов (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/797705/"
+    },
+    {
+      "film_name": "Призрак (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/839960/"
+    },
+    {
+      "film_name": "Джунгли (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/652760/"
+    },
+    {
+      "film_name": "Ёлки (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/493768/"
+    },
+    {
+      "film_name": "Чёрная Молния (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/439906/"
+    }
+  ]
+}

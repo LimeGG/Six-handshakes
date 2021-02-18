@@ -1,46 +1,14 @@
 import json
+import os
+from pathlib import PureWindowsPath
 
-actors = [{
-    "actor_name": "Александр Петров",
-    "actor_href": "https://www.kinopoisk.ru//name/2286874/",
-    "films": [
-        {
-            "film_name": "#Зановородиться",
-            "film_href": "https://www.kinopoisk.ru/film/1117965/"
-        },
-        {
-            "film_name": "#За1новородиться",
-            "film_href": "https://www.kinopoisk.ru/film/11137965/"
-        },
-        {
-            "film_name": "Анна",
-            "film_href": "https://www.kinopoisk.ru/film/1049727/"
-        }
+some_actors = os.listdir('Clear_Actors')
 
-    ]
-},{
-    "actor_name": "Ирина Старшенбаум",
-    "actor_href": "https://www.kinopoisk.ru//name/3873197/",
-    "films": [
-        {
-            "film_name": "#Зановородиться",
-            "film_href": "https://www.kinopoisk.ru/film/1117965/"
-        },
-        {
-            "film_name": "#Зановородить1ся",
-            "film_href": "https://www.kinopoi1sk.ru/film/11179265/"
-        }
-    ]
-},{
-    "actor_name": "Саша Лусс",
-    "actor_href": "https://www.kinopoisk.ru//name/4462805/",
-    "films": [
-        {
-            "film_name": "Анна",
-            "film_href": "https://www.kinopoisk.ru/film/1049727/"
-        }
-    ]
-}]
+actors = []
+
+for actor in some_actors:
+    with open(PureWindowsPath('Clear_Actors', actor), 'r', encoding='utf-8') as f:
+        actors.append(json.load(f))
 
 # graph = {}
 # temp = False
@@ -65,8 +33,9 @@ for i in range(len(actors)):
                     temp = film in actors[j]['films']
                     graph[actors[i]['actor_name']].append(actors[j]['actor_name'])
 
+
 #
-print(graph)
+# print(graph)
 
 def dfs_paths(graph, start, goal):
     stack = [(start, [start])]
@@ -78,4 +47,5 @@ def dfs_paths(graph, start, goal):
             else:
                 stack.append((next, path + [next]))
 
-print(list(dfs_paths(graph, actors[1]['actor_name'], actors[2]['actor_name'])))
+
+print(list(dfs_paths(graph, actors[1]['actor_name'], actors[2]['actor_name']))[0])

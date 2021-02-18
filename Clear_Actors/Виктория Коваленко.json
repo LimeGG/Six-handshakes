@@ -1,0 +1,54 @@
+{
+  "actor_name": "Виктория Коваленко",
+  "actor_href": "https://www.kinopoisk.ru/name/3920109/",
+  "films": [
+    {
+      "film_name": "Скрытые мотивы (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1354893/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Барс (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008781/"
+    },
+    {
+      "film_name": "Сезон дождей (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1118111/"
+    },
+    {
+      "film_name": "Агентство скрытых камер (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1001696/"
+    },
+    {
+      "film_name": "Принцип Талиона (2015)",
+      "film_href": "https:/www.kinopoisk.ru/film/893073/"
+    },
+    {
+      "film_name": "Музаика (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/1112401/"
+    },
+    {
+      "film_name": "На своей волне (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/943396/"
+    },
+    {
+      "film_name": "Пятая стража (сериал, 2013 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/736388/"
+    },
+    {
+      "film_name": "Кухня (сериал, 2012 – 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/687595/"
+    },
+    {
+      "film_name": "Склифосовский (сериал, 2012 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/584956/"
+    },
+    {
+      "film_name": "Кодекс чести (сериал, 2004 – 2014)",
+      "film_href": "https:/www.kinopoisk.ru/series/414562/"
+    }
+  ]
+}

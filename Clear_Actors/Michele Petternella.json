@@ -1,0 +1,26 @@
+{
+  "actor_name": "Michele Petternella",
+  "actor_href": "https://www.kinopoisk.ru/name/789164/",
+  "films": [
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "SuperHigh (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1114887/"
+    },
+    {
+      "film_name": "Девять жизней (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/885349/"
+    },
+    {
+      "film_name": "100 миллионов евро 2 (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/929079/"
+    },
+    {
+      "film_name": "Добро пожаловать на борт (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/606656/"
+    }
+  ]
+}

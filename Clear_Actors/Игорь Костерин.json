@@ -1,0 +1,34 @@
+{
+  "actor_name": "Игорь Костерин",
+  "actor_href": "https://www.kinopoisk.ru/name/5044289/",
+  "films": [
+    {
+      "film_name": "Хор (сериал, 2021)",
+      "film_href": "https:/www.kinopoisk.ru/series/1049439/"
+    },
+    {
+      "film_name": "Вторжение (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1045582/"
+    },
+    {
+      "film_name": "Под напряжением (сериал, 2018)",
+      "film_href": "https:/www.kinopoisk.ru/series/1046764/"
+    },
+    {
+      "film_name": "Лера (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1115672/"
+    },
+    {
+      "film_name": "Крымский мост. Сделано с любовью! (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/1171910/"
+    },
+    {
+      "film_name": "Тренер (2018)",
+      "film_href": "https:/www.kinopoisk.ru/film/981230/"
+    },
+    {
+      "film_name": "Дожить до любви (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1047172/"
+    }
+  ]
+}

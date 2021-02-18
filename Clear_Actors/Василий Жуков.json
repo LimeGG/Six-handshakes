@@ -1,0 +1,42 @@
+{
+  "actor_name": "Василий Жуков",
+  "actor_href": "https://www.kinopoisk.ru/name/5401400/",
+  "films": [
+    {
+      "film_name": "Вечер шутов, или Серьезно с приветом (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1363062/"
+    },
+    {
+      "film_name": "Метод 2 (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1238997/"
+    },
+    {
+      "film_name": "Подольские курсанты (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1191022/"
+    },
+    {
+      "film_name": "Фемида видит (сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1186151/"
+    },
+    {
+      "film_name": "Оригами (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1253984/"
+    },
+    {
+      "film_name": "Назначь мне свиданье (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1244896/"
+    },
+    {
+      "film_name": "Морозова (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1049366/"
+    },
+    {
+      "film_name": "СашаТаня (сериал, 2013 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/630232/"
+    },
+    {
+      "film_name": "След (сериал, 2007 – 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/411733/"
+    }
+  ]
+}

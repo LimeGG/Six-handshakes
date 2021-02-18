@@ -1,0 +1,294 @@
+{
+  "actor_name": "Владимир Большов",
+  "actor_href": "https://www.kinopoisk.ru/name/269762/",
+  "films": [
+    {
+      "film_name": "Марлен (сериал, 2020)",
+      "film_href": "https:/www.kinopoisk.ru/series/1338078/"
+    },
+    {
+      "film_name": "Стрельцов (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1167867/"
+    },
+    {
+      "film_name": "Иранская конференция (2020)",
+      "film_href": "https:/www.kinopoisk.ru/film/1347318/"
+    },
+    {
+      "film_name": "Лады (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1338091/"
+    },
+    {
+      "film_name": "Последний рейв (мини-сериал, 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1320481/"
+    },
+    {
+      "film_name": "Чужая кровь (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1008199/"
+    },
+    {
+      "film_name": "Икра (сериал, 2017 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/1112110/"
+    },
+    {
+      "film_name": "Власик. Тень Сталина (сериал, 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/880751/"
+    },
+    {
+      "film_name": "Материя (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/818772/"
+    },
+    {
+      "film_name": "Господа-товарищи (сериал, 2014 – 2015)",
+      "film_href": "https:/www.kinopoisk.ru/series/846885/"
+    },
+    {
+      "film_name": "Часы Калиостро (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/710198/"
+    },
+    {
+      "film_name": "Здрасьте, я ваш папа! (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/838969/"
+    },
+    {
+      "film_name": "По лезвию бритвы (мини-сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/669264/"
+    },
+    {
+      "film_name": "Две зимы и три лета (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/820505/"
+    },
+    {
+      "film_name": "Истребители (сериал, 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/693415/"
+    },
+    {
+      "film_name": "Российские Багамы (2012)",
+      "film_href": "https:/www.kinopoisk.ru/film/1009296/"
+    },
+    {
+      "film_name": "Отстегните ремни (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/696401/"
+    },
+    {
+      "film_name": "Жуков (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/661042/"
+    },
+    {
+      "film_name": "Высоцкий. Спасибо, что живой (2011)",
+      "film_href": "https:/www.kinopoisk.ru/film/522036/"
+    },
+    {
+      "film_name": "Бомбила (сериал, 2011)",
+      "film_href": "https:/www.kinopoisk.ru/series/586571/"
+    },
+    {
+      "film_name": "Москва. Центральный округ 3 (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/485328/"
+    },
+    {
+      "film_name": "Поединки: Вербовщик (ТВ, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/573657/"
+    },
+    {
+      "film_name": "Погоня за тенью (сериал, 2010)",
+      "film_href": "https:/www.kinopoisk.ru/series/565731/"
+    },
+    {
+      "film_name": "Виски с молоком (2010)",
+      "film_href": "https:/www.kinopoisk.ru/film/468252/"
+    },
+    {
+      "film_name": "Красное на белом (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/453165/"
+    },
+    {
+      "film_name": "Белый-белый день (2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/521533/"
+    },
+    {
+      "film_name": "Грязная работа (сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/460495/"
+    },
+    {
+      "film_name": "Исчезнувшие (мини-сериал, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/460406/"
+    },
+    {
+      "film_name": "Питерские каникулы (ТВ, 2009)",
+      "film_href": "https:/www.kinopoisk.ru/film/452658/"
+    },
+    {
+      "film_name": "Самый лучший вечер (ТВ, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/439781/"
+    },
+    {
+      "film_name": "Братья Карамазовы (сериал, 2008 – 2009)",
+      "film_href": "https:/www.kinopoisk.ru/series/322063/"
+    },
+    {
+      "film_name": "Глухарь (сериал, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/431219/"
+    },
+    {
+      "film_name": "Платон (2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/395373/"
+    },
+    {
+      "film_name": "Защита (сериал, 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/427836/"
+    },
+    {
+      "film_name": "Заражение (2008)",
+      "film_href": "https:/www.kinopoisk.ru/film/406238/"
+    },
+    {
+      "film_name": "Неуловимая четверка (2007)",
+      "film_href": "https:/www.kinopoisk.ru/film/438249/"
+    },
+    {
+      "film_name": "Папины дочки (сериал, 2007 – 2013)",
+      "film_href": "https:/www.kinopoisk.ru/series/394047/"
+    },
+    {
+      "film_name": "Вся такая внезапная (сериал, 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/397472/"
+    },
+    {
+      "film_name": "Кромъ (сериал, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/series/422851/"
+    },
+    {
+      "film_name": "Слава богу, ты пришел! (сериал, 2006 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/466538/"
+    },
+    {
+      "film_name": "Острог. Дело Федора Сеченова (сериал, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/series/405659/"
+    },
+    {
+      "film_name": "Бункер, или Ученые под землей (сериал, 2006)",
+      "film_href": "https:/www.kinopoisk.ru/series/276285/"
+    },
+    {
+      "film_name": "Человек войны (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/89681/"
+    },
+    {
+      "film_name": "Слепой 2 (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/424035/"
+    },
+    {
+      "film_name": "Мошенники (сериал, 2005 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/255115/"
+    },
+    {
+      "film_name": "Дом у соленого озера (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/472330/"
+    },
+    {
+      "film_name": "Сматывай удочки (2004)",
+      "film_href": "https:/www.kinopoisk.ru/film/104958/"
+    },
+    {
+      "film_name": "МУР есть МУР (сериал, 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/256373/"
+    },
+    {
+      "film_name": "Моя прекрасная няня (сериал, 2004 – 2008)",
+      "film_href": "https:/www.kinopoisk.ru/series/89596/"
+    },
+    {
+      "film_name": "Стилет 2 (сериал, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/256375/"
+    },
+    {
+      "film_name": "Антикиллер 2: Антитеррор (сериал, 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/77397/"
+    },
+    {
+      "film_name": "Бедная Настя (сериал, 2003 – 2004)",
+      "film_href": "https:/www.kinopoisk.ru/series/81035/"
+    },
+    {
+      "film_name": "А поутру они проснулись (2003)",
+      "film_href": "https:/www.kinopoisk.ru/film/252021/"
+    },
+    {
+      "film_name": "Каменская 2 (сериал, 2002)",
+      "film_href": "https:/www.kinopoisk.ru/series/94334/"
+    },
+    {
+      "film_name": "Львиная доля (2001)",
+      "film_href": "https:/www.kinopoisk.ru/film/41304/"
+    },
+    {
+      "film_name": "Саломея (сериал, 2001)",
+      "film_href": "https:/www.kinopoisk.ru/series/428918/"
+    },
+    {
+      "film_name": "Истинные происшествия (2000)",
+      "film_href": "https:/www.kinopoisk.ru/film/40840/"
+    },
+    {
+      "film_name": "Марш Турецкого (сериал, 2000 – 2007)",
+      "film_href": "https:/www.kinopoisk.ru/series/94417/"
+    },
+    {
+      "film_name": "Шутить изволите? (1999)",
+      "film_href": "https:/www.kinopoisk.ru/film/470355/"
+    },
+    {
+      "film_name": "Простые истины (сериал, 1999 – 2003)",
+      "film_href": "https:/www.kinopoisk.ru/series/344169/"
+    },
+    {
+      "film_name": "Сочинение ко дню победы (1998)",
+      "film_href": "https:/www.kinopoisk.ru/film/41076/"
+    },
+    {
+      "film_name": "Летние люди (1995)",
+      "film_href": "https:/www.kinopoisk.ru/film/41286/"
+    },
+    {
+      "film_name": "Стреляющие ангелы (1994)",
+      "film_href": "https:/www.kinopoisk.ru/film/23466/"
+    },
+    {
+      "film_name": "Русский регтайм (1993)",
+      "film_href": "https:/www.kinopoisk.ru/film/40721/"
+    },
+    {
+      "film_name": "Призрак (1991)",
+      "film_href": "https:/www.kinopoisk.ru/film/417803/"
+    },
+    {
+      "film_name": "Фанат 2 (1990)",
+      "film_href": "https:/www.kinopoisk.ru/film/256119/"
+    },
+    {
+      "film_name": "Брызги шампанского (1989)",
+      "film_href": "https:/www.kinopoisk.ru/film/46231/"
+    },
+    {
+      "film_name": "Когда наступит день (1988)",
+      "film_href": "https:/www.kinopoisk.ru/film/44843/"
+    },
+    {
+      "film_name": "Мир дому твоему (ТВ, 1987)",
+      "film_href": "https:/www.kinopoisk.ru/film/453302/"
+    },
+    {
+      "film_name": "Выкуп (1986)",
+      "film_href": "https:/www.kinopoisk.ru/film/45969/"
+    },
+    {
+      "film_name": "Господин Великий Новгород (1985)",
+      "film_href": "https:/www.kinopoisk.ru/film/44588/"
+    },
+    {
+      "film_name": "Михайло Ломоносов (сериал, 1984)",
+      "film_href": "https:/www.kinopoisk.ru/series/46628/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "actor_name": "Марк Шмугер",
+  "actor_href": "https://www.kinopoisk.ru/name/147578/",
+  "films": [
+    {
+      "film_name": "Лицо со шрамом",
+      "film_href": "https:/www.kinopoisk.ru/film/634788/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Сфера (2017)",
+      "film_href": "https:/www.kinopoisk.ru/film/909550/"
+    },
+    {
+      "film_name": "Уязвимость нулевых дней (2016)",
+      "film_href": "https:/www.kinopoisk.ru/film/961101/"
+    },
+    {
+      "film_name": "Люси (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/760326/"
+    },
+    {
+      "film_name": "Мы крадем секреты: История WikiLeaks (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/739940/"
+    },
+    {
+      "film_name": "Захватывающее время (2013)",
+      "film_href": "https:/www.kinopoisk.ru/film/566254/"
+    },
+    {
+      "film_name": "Смерть зимой (1987)",
+      "film_href": "https:/www.kinopoisk.ru/film/20240/"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "actor_name": "Джансу Тосун",
+  "actor_href": "https://www.kinopoisk.ru/name/3605753/",
+  "films": [
+    {
+      "film_name": "I Am You (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1101818/"
+    },
+    {
+      "film_name": "Анна (2019)",
+      "film_href": "https:/www.kinopoisk.ru/film/1049727/"
+    },
+    {
+      "film_name": "Осада Эль-Кута (сериал, 2018 – 2019)",
+      "film_href": "https:/www.kinopoisk.ru/series/1112177/"
+    },
+    {
+      "film_name": "Сумасшедшая любовь (сериал, 2017)",
+      "film_href": "https:/www.kinopoisk.ru/series/1166267/"
+    },
+    {
+      "film_name": "Семья (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/1045723/"
+    },
+    {
+      "film_name": "Время переселения (сериал, 2016)",
+      "film_href": "https:/www.kinopoisk.ru/series/963380/"
+    },
+    {
+      "film_name": "Эликсир (2014)",
+      "film_href": "https:/www.kinopoisk.ru/film/889123/"
+    },
+    {
+      "film_name": "Придворные сегодня (сериал, 2013 – ...)",
+      "film_href": "https:/www.kinopoisk.ru/series/841166/"
+    },
+    {
+      "film_name": "Потерянный город (сериал, 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/838025/"
+    },
+    {
+      "film_name": "Маленькая леди (сериал, 2011 – 2012)",
+      "film_href": "https:/www.kinopoisk.ru/series/1046728/"
+    }
+  ]
+}

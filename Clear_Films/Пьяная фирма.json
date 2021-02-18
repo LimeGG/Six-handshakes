@@ -1,0 +1,210 @@
+{
+  "film_name": "Пьяная фирма",
+  "film_href": "https://www.kinopoisk.ru/series/915992/",
+  "actors": [
+    {
+      "actor_name": "Григорий Константинопольский",
+      "actor_href": "https://www.kinopoisk.ru//name/280625/"
+    },
+    {
+      "actor_name": "Михаил Ефремов",
+      "actor_href": "https://www.kinopoisk.ru//name/231287/"
+    },
+    {
+      "actor_name": "Елизавета Боярская",
+      "actor_href": "https://www.kinopoisk.ru//name/690012/"
+    },
+    {
+      "actor_name": "Иван Макаревич",
+      "actor_href": "https://www.kinopoisk.ru//name/1487205/"
+    },
+    {
+      "actor_name": "Анна Михалкова",
+      "actor_href": "https://www.kinopoisk.ru//name/110814/"
+    },
+    {
+      "actor_name": "Марат Башаров",
+      "actor_href": "https://www.kinopoisk.ru//name/101776/"
+    },
+    {
+      "actor_name": "Виктория Исакова",
+      "actor_href": "https://www.kinopoisk.ru//name/915997/"
+    },
+    {
+      "actor_name": "Юрий Колокольников",
+      "actor_href": "https://www.kinopoisk.ru//name/230534/"
+    },
+    {
+      "actor_name": "Ирина Апексимова",
+      "actor_href": "https://www.kinopoisk.ru//name/74578/"
+    },
+    {
+      "actor_name": "Александр Петров",
+      "actor_href": "https://www.kinopoisk.ru//name/2286874/"
+    },
+    {
+      "actor_name": "Евгений Цыганов",
+      "actor_href": "https://www.kinopoisk.ru//name/231411/"
+    },
+    {
+      "actor_name": "Виктория Толстоганова",
+      "actor_href": "https://www.kinopoisk.ru//name/224605/"
+    },
+    {
+      "actor_name": "Ингеборга Дапкунайте",
+      "actor_href": "https://www.kinopoisk.ru//name/55248/"
+    },
+    {
+      "actor_name": "Андрей Мерзликин",
+      "actor_href": "https://www.kinopoisk.ru//name/476576/"
+    },
+    {
+      "actor_name": "Сергей Колтаков",
+      "actor_href": "https://www.kinopoisk.ru//name/251192/"
+    },
+    {
+      "actor_name": "Сергей Лобынцев",
+      "actor_href": "https://www.kinopoisk.ru//name/1171569/"
+    },
+    {
+      "actor_name": "Диана Пентович",
+      "actor_href": "https://www.kinopoisk.ru//name/4531359/"
+    },
+    {
+      "actor_name": "Сергей Томанов",
+      "actor_href": "https://www.kinopoisk.ru//name/4531361/"
+    },
+    {
+      "actor_name": "Артём Мельничук",
+      "actor_href": "https://www.kinopoisk.ru//name/3731078/"
+    },
+    {
+      "actor_name": "Сергей Городничий",
+      "actor_href": "https://www.kinopoisk.ru//name/4546081/"
+    },
+    {
+      "actor_name": "Денис Кукояка",
+      "actor_href": "https://www.kinopoisk.ru//name/2784069/"
+    },
+    {
+      "actor_name": "Артем Ткаченко",
+      "actor_href": "https://www.kinopoisk.ru//name/558076/"
+    },
+    {
+      "actor_name": "Ян Цапник",
+      "actor_href": "https://www.kinopoisk.ru//name/298467/"
+    },
+    {
+      "actor_name": "Александр Стриженов",
+      "actor_href": "https://www.kinopoisk.ru//name/101951/"
+    },
+    {
+      "actor_name": "Константин Мурзенко",
+      "actor_href": "https://www.kinopoisk.ru//name/224740/"
+    },
+    {
+      "actor_name": "Анна Цуканова-Котт",
+      "actor_href": "https://www.kinopoisk.ru//name/904647/"
+    },
+    {
+      "actor_name": "Рамиль Сабитов",
+      "actor_href": "https://www.kinopoisk.ru//name/464130/"
+    },
+    {
+      "actor_name": "Даша Чаруша",
+      "actor_href": "https://www.kinopoisk.ru//name/703441/"
+    },
+    {
+      "actor_name": "Алексей Огурцов",
+      "actor_href": "https://www.kinopoisk.ru//name/906869/"
+    },
+    {
+      "actor_name": "Светлана Свибильская",
+      "actor_href": "https://www.kinopoisk.ru//name/1105170/"
+    },
+    {
+      "actor_name": "Анастасия Цой",
+      "actor_href": "https://www.kinopoisk.ru//name/1801383/"
+    },
+    {
+      "actor_name": "Любовь Аксенова",
+      "actor_href": "https://www.kinopoisk.ru//name/2460349/"
+    },
+    {
+      "actor_name": "Екатерина Берлинская",
+      "actor_href": "https://www.kinopoisk.ru//name/2534924/"
+    },
+    {
+      "actor_name": "Андрей Трушин",
+      "actor_href": "https://www.kinopoisk.ru//name/4117945/"
+    },
+    {
+      "actor_name": "Владислав Манин",
+      "actor_href": "https://www.kinopoisk.ru//name/5236027/"
+    },
+    {
+      "actor_name": "Валерий Федорович",
+      "actor_href": "https://www.kinopoisk.ru//name/1828503/"
+    },
+    {
+      "actor_name": "Евгений Никишов",
+      "actor_href": "https://www.kinopoisk.ru//name/1577435/"
+    },
+    {
+      "actor_name": "Игорь Мишин",
+      "actor_href": "https://www.kinopoisk.ru//name/2138354/"
+    },
+    {
+      "actor_name": "Александр Дулерайн",
+      "actor_href": "https://www.kinopoisk.ru//name/909603/"
+    },
+    {
+      "actor_name": "Юрий Сапронов",
+      "actor_href": "https://www.kinopoisk.ru//name/1080416/"
+    },
+    {
+      "actor_name": "Иван Голомовзюк",
+      "actor_href": "https://www.kinopoisk.ru//name/2802221/"
+    },
+    {
+      "actor_name": "Сергей Оганесян",
+      "actor_href": "https://www.kinopoisk.ru//name/1928688/"
+    },
+    {
+      "actor_name": "Ирина Барк",
+      "actor_href": "https://www.kinopoisk.ru//name/2294818/"
+    },
+    {
+      "actor_name": "Григорий Константинопольский",
+      "actor_href": "https://www.kinopoisk.ru//name/280625/"
+    },
+    {
+      "actor_name": "Владимир Ушаков",
+      "actor_href": "https://www.kinopoisk.ru//name/3230088/"
+    },
+    {
+      "actor_name": "Григорий Константинопольский",
+      "actor_href": "https://www.kinopoisk.ru//name/280625/"
+    },
+    {
+      "actor_name": "Федор Савельев",
+      "actor_href": "https://www.kinopoisk.ru//name/2003110/"
+    },
+    {
+      "actor_name": "Мария Турская",
+      "actor_href": "https://www.kinopoisk.ru//name/2010988/"
+    },
+    {
+      "actor_name": "Татьяна Долматовская",
+      "actor_href": "https://www.kinopoisk.ru//name/2424628/"
+    },
+    {
+      "actor_name": "Павел Ханютин",
+      "actor_href": "https://www.kinopoisk.ru//name/2479870/"
+    },
+    {
+      "actor_name": "Екатерина Пивнева",
+      "actor_href": "https://www.kinopoisk.ru//name/2896229/"
+    }
+  ]
+}
