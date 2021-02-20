@@ -69,7 +69,9 @@ def ripper(dir_with_object, ripper_type):
                     ds = cinema(f.read())
                 else:
                     ds = actors(f.read())
-                with open(f'Clear_{ripper_type}\\{ds[ripper_types[ripper_type]]}.json', 'w', encoding='utf-8') as g:
+                with open(f'Clear_{ripper_type}\\'
+                          f'{"".join(x for x in ds[ripper_types[ripper_type]] if x.isalnum())}.json',
+                          'w', encoding='utf-8') as g:
                     json.dump(ds, g, indent=2, ensure_ascii=False)
         except IndexError:
             print(f'Unexpected html page:{object_type}')

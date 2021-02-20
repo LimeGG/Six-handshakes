@@ -1,6 +1,7 @@
 import collections
 import json
 import os
+import time
 from pathlib import PureWindowsPath
 
 some_actors = os.listdir('Clear_Actors')
@@ -11,7 +12,7 @@ for actor in some_actors:
     with open(PureWindowsPath('Clear_Actors', actor), 'r', encoding='utf-8') as f:
         actors.append(json.load(f))
 
-# for i in range(50):
+# for i in range(12):
 #     with open(PureWindowsPath('Clear_Actors', some_actors[i]), 'r', encoding='utf-8') as f:
 #         actors.append(json.load(f))
 
@@ -70,9 +71,27 @@ def bfs(graph_, root_1, root_2):
     return {}
 
 
-bfs_graph = bfs(graph, actors[1]['actor_name'], actors[39]['actor_name'])
-print(actors[1]['actor_name'])
-print(actors[39]['actor_name'])
+root_1 = actors[1]['actor_name']
+root_2 = actors[39]['actor_name']
+t1 = time.time()
+bfs_graph = bfs(graph, root_1, root_2)
+t2 = time.time()
+print(t2 - t1)
+print(root_1)
+print(root_2)
+# print(bfs_graph, )
 
-print(bfs_graph, )
-# print(len(bfs_graph))
+# for key in bfs_graph:
+#     root =
+temp = True
+root = bfs_graph[root_2]
+ls = [root_2]
+while temp:
+    ls.append(root)
+    root = bfs_graph[root]
+
+    temp = root_1 != root
+
+ls.append(root_1)
+ls.reverse()
+print(ls)

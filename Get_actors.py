@@ -45,7 +45,7 @@ def log_in(driver):
 def get_actor_page(driver, actor_href):
     driver.get(actor_href)
     driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
-    time.sleep(5)
+    time.sleep(7)
     return driver.page_source
 
 
@@ -75,10 +75,10 @@ alt_object_types = {'Films': 'actors',
 def get_object(driver, object_type):
     alt_type = alt_object_types[object_type].title()
     dir_with_clear_alt_object = os.listdir(f'Clear_{alt_type}')
+    exist_object_list = os.listdir(object_type)
     for alt_object_ in dir_with_clear_alt_object:
         with open(PureWindowsPath(f'Clear_{alt_type}', alt_object_), 'r', encoding='utf-8') as file:
             object_list = json.load(file)[object_type.lower()]
-            exist_object_list = os.listdir(object_type)
             for object_ in object_list:
                 if f'{object_[object_types[object_type]]}.html' not in exist_object_list:
                     write_html_object_page(driver, object_type, object_)
@@ -92,9 +92,11 @@ def get_object_page(driver, object_href):
 
 
 def write_html_object_page(driver, object_type, object_):
-    with open(PureWindowsPath(object_type, f'{object_[object_types[object_type]]}.html'), 'w', encoding='utf-8') as f:
+    with open(PureWindowsPath(object_type,
+                              f'{"".join(x for x in object_[object_types[object_type]] if x.isalnum())}.html'),
+              'w', encoding='utf-8') as f:
         if object_type == 'Films':
-            f.write(get_object_page(driver, f'{object_["film_href"]}\\cast\\'))
+            f.write(get_object_page(driver, f'{object_["film_href"].replace("series", "film")}\\cast\\'))
             print(f'{object_["film_name"]} was written!')
         else:
             f.write(get_object_page(driver, object_["actor_href"]))
@@ -104,7 +106,12 @@ def write_html_object_page(driver, object_type, object_):
 def main():
     driver_firefox = webdriver.Firefox()
     log_in(driver_firefox)
-    get_object(driver_firefox, 'Films')
+    with open(PureWindowsPath('Films', f'{"".join(x for x in "Мстители: Финал" if x.isalnum())}.html'), 'w', encoding='utf-8') as f:
+
+        f.write(get_actor_page(driver_firefox, 'https://www.kinopoisk.ru/film/843650/cast/'))
+        # print(f'Роберт Дауни мл. was written!')
+
+    # get_object(driver_firefox, 'Films')
     driver_firefox.close()
 
 
