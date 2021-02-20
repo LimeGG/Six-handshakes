@@ -1,0 +1,26 @@
+{
+  "film_name": "Paranormal Factory",
+  "film_href": "https://www.kinopoisk.ru/film/1280958/",
+  "actors": [
+    {
+      "actor_name": "Thomas Guilleux",
+      "actor_href": "https://www.kinopoisk.ru//name/4435164/"
+    },
+    {
+      "actor_name": "Fabien Gauthier",
+      "actor_href": "https://www.kinopoisk.ru//name/4875257/"
+    },
+    {
+      "actor_name": "Angèle Loca",
+      "actor_href": "https://www.kinopoisk.ru//name/3707425/"
+    },
+    {
+      "actor_name": "Anthony Weber",
+      "actor_href": "https://www.kinopoisk.ru//name/4669871/"
+    },
+    {
+      "actor_name": "Paul D. Olinger",
+      "actor_href": "https://www.kinopoisk.ru//name/4170655/"
+    }
+  ]
+}

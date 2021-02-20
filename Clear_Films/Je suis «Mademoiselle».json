@@ -1,0 +1,38 @@
+{
+  "film_name": "Je suis «Mademoiselle»",
+  "film_href": "https://www.kinopoisk.ru/film/1280813/",
+  "actors": [
+    {
+      "actor_name": "Chloé Micout",
+      "actor_href": "https://www.kinopoisk.ru//name/1032750/"
+    },
+    {
+      "actor_name": "Alexandre Delacharlerie",
+      "actor_href": "https://www.kinopoisk.ru//name/5697366/"
+    },
+    {
+      "actor_name": "François Dulsan",
+      "actor_href": "https://www.kinopoisk.ru//name/5697367/"
+    },
+    {
+      "actor_name": "Жереми Грин",
+      "actor_href": "https://www.kinopoisk.ru//name/3699570/"
+    },
+    {
+      "actor_name": "Давия Мартелли",
+      "actor_href": "https://www.kinopoisk.ru//name/1777131/"
+    },
+    {
+      "actor_name": "Marie Moriette",
+      "actor_href": "https://www.kinopoisk.ru//name/5569695/"
+    },
+    {
+      "actor_name": "Ксавье Валото",
+      "actor_href": "https://www.kinopoisk.ru//name/1810443/"
+    },
+    {
+      "actor_name": "Anthony Weber",
+      "actor_href": "https://www.kinopoisk.ru//name/4669871/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "film_name": "Amare Delirium",
+  "film_href": "https://www.kinopoisk.ru/film/1384886/",
+  "actors": [
+    {
+      "actor_name": "Dylan Kellogg",
+      "actor_href": "https://www.kinopoisk.ru//name/4428307/"
+    },
+    {
+      "actor_name": "Marie Breton",
+      "actor_href": "https://www.kinopoisk.ru//name/5583921/"
+    },
+    {
+      "actor_name": "Jaufré Saint Gal de Pons",
+      "actor_href": "https://www.kinopoisk.ru//name/6099810/"
+    },
+    {
+      "actor_name": "Rachel Ruello",
+      "actor_href": "https://www.kinopoisk.ru//name/1147591/"
+    },
+    {
+      "actor_name": "Alexandre Majetniak",
+      "actor_href": "https://www.kinopoisk.ru//name/4944126/"
+    },
+    {
+      "actor_name": "Christophe Tang-Y.",
+      "actor_href": "https://www.kinopoisk.ru//name/6099811/"
+    },
+    {
+      "actor_name": "Jaufré Saint Gal de Pons",
+      "actor_href": "https://www.kinopoisk.ru//name/6099810/"
+    },
+    {
+      "actor_name": "Christophe Tang-Y.",
+      "actor_href": "https://www.kinopoisk.ru//name/6099811/"
+    },
+    {
+      "actor_name": "Alexandre Majetniak",
+      "actor_href": "https://www.kinopoisk.ru//name/4944126/"
+    }
+  ]
+}
