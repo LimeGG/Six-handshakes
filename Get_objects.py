@@ -4,6 +4,7 @@ import json
 import time
 
 from selenium import webdriver
+from General_Ripper import actors, cinema
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0'
@@ -55,15 +56,17 @@ def write_html_actor_page(driver, actor_):
         print(f'{actor_["actor_name"]} was written!')
 
 
-def get_actors(driver):
+def get_actors(driver, write_raw_html=True):
     dir_with_clear_films = os.listdir('Clear_Films')
     for film in dir_with_clear_films:
         with open(PureWindowsPath('Clear_Films', film), 'r', encoding='utf-8') as file:
             actors_list = json.load(file)['actors']
             exist_actors_list = os.listdir('Actors')
             for actor in actors_list:
-                if actor['actor_name'] not in exist_actors_list:
+                if actor['actor_name'] not in exist_actors_list and write_raw_html:
                     write_html_actor_page(driver, actor)
+                elif not write_raw_html:
+                    actors(get_actor_page(driver, actor["actor_href"]))
 
 
 object_types = {'Films': 'film_name',
@@ -72,7 +75,7 @@ alt_object_types = {'Films': 'actors',
                     'Actors': 'films'}
 
 
-def get_object(driver, object_type):
+def get_object(driver, object_type, write_raw_html=True):
     alt_type = alt_object_types[object_type].title()
     dir_with_clear_alt_object = os.listdir(f'Clear_{alt_type}')
     exist_object_list = os.listdir(object_type)
@@ -80,13 +83,30 @@ def get_object(driver, object_type):
         with open(PureWindowsPath(f'Clear_{alt_type}', alt_object_), 'r', encoding='utf-8') as file:
             object_list = json.load(file)[object_type.lower()]
             for object_ in object_list:
-                if f'{object_[object_types[object_type]]}.html' not in exist_object_list:
+                if f'{object_[object_types[object_type]]}.html' not in exist_object_list and write_raw_html:
                     write_html_object_page(driver, object_type, object_)
 
 
 def get_object_page(driver, object_href):
     driver.get(object_href)
-    driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+    SCROLL_PAUSE_TIME = 0.5
+
+    # Get scroll height
+    last_height = driver.execute_script("return document.body.scrollHeight")
+
+    while True:
+        # Scroll down to bottom
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+        # Wait to load page
+        time.sleep(SCROLL_PAUSE_TIME)
+
+        # Calculate new scroll height and compare with last scroll height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+    # driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
     time.sleep(5)
     return driver.page_source
 
@@ -103,17 +123,18 @@ def write_html_object_page(driver, object_type, object_):
             print(f'{object_["actor_name"]} was written!')
 
 
-def main():
+def get_object_by_link(link):
     driver_firefox = webdriver.Firefox()
     log_in(driver_firefox)
-    with open(PureWindowsPath('Films', f'{"".join(x for x in "Мстители: Финал" if x.isalnum())}.html'), 'w', encoding='utf-8') as f:
-
-        f.write(get_actor_page(driver_firefox, 'https://www.kinopoisk.ru/film/843650/cast/'))
-        # print(f'Роберт Дауни мл. was written!')
-
+    # with open(PureWindowsPath('Films', f'{"".join(x for x in "Мстители: Финал" if x.isalnum())}.html'), 'w', encoding='utf-8') as f:
+    #
+    #     f.write(get_actor_page(driver_firefox, 'https://www.kinopoisk.ru/film/843650/cast/'))
+    # print(f'Роберт Дауни мл. was written!')
+    with open(PureWindowsPath('Actors', 'Крис Пратт.html'), 'w', encoding='utf-8') as f:
+        f.write(get_object_page(driver_firefox,link))
     # get_object(driver_firefox, 'Films')
     driver_firefox.close()
+    # return result
 
 
-if __name__ == '__main__':
-    main()
+get_object_by_link(r'https://www.kinopoisk.ru/name/224358/')
